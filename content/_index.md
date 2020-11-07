@@ -1,0 +1,1 @@
+Saskatchewan is a prairie and boreal province in Canada, the only province without a natural border. It has an area of 651,900 square kilometres (251,700 sq mi), nearly 10 percent of which (59,366 square kilometres (22,900 sq mi)) is fresh water, composed mostly of rivers, reservoirs, and the province's 100,000 lakes. (Wikipedia)
