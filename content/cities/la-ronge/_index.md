@@ -1,6 +1,6 @@
 ---
 title: La Ronge
 url: /la-ronge/
-latitude: 55.100373000000005
-longitude: -105.301208
+latitude: 55.1005283
+longitude: -105.29004850000001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maidstone
 url: /maidstone/
-latitude: 53.086108100000004
-longitude: -109.2964654
+latitude: 53.0862269
+longitude: -109.29609640000001
 ---

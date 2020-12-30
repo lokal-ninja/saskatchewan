@@ -1,6 +1,6 @@
 ---
 title: Shaunavon
 url: /shaunavon/
-latitude: 49.650257100000005
-longitude: -108.4101083
+latitude: 49.650770300000005
+longitude: -108.41002130000001
 ---
