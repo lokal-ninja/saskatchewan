@@ -1,6 +1,6 @@
 ---
 title: Bankend
 url: /bankend/
-latitude: 
-longitude: 
+latitude: 51.508748800000006
+longitude: -103.8493627
 ---
