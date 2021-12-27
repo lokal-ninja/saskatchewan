@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /saskatoon/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

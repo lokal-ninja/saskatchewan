@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /saskatoon/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

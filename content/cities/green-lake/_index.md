@@ -1,6 +1,6 @@
 ---
 title: Green Lake
 url: /green-lake/
-latitude: 54.292157800000005
-longitude: -107.79239840000001
+latitude: 54.291
+longitude: -107.802
 ---

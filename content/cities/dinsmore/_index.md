@@ -1,6 +1,6 @@
 ---
 title: Dinsmore
 url: /dinsmore/
-latitude: 51.3325438
-longitude: -107.44710850000001
+latitude: 51.329
+longitude: -107.443
 ---

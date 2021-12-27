@@ -1,6 +1,6 @@
 ---
 title: Warman
 url: /warman/
-latitude: 52.320232000000004
-longitude: -106.57562300000001
+latitude: 52.318
+longitude: -106.574
 ---

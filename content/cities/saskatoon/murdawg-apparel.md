@@ -1,5 +1,5 @@
 ---
 title: "Murdawg Apparel"
 url: /saskatoon/murdawg-apparel/
-shop: clothes
+shop: Kleidung
 ---

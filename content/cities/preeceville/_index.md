@@ -1,6 +1,6 @@
 ---
 title: Preeceville
 url: /preeceville/
-latitude: 51.9542182
-longitude: -102.668152
+latitude: 51.955
+longitude: -102.668
 ---

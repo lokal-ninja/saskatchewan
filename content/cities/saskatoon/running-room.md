@@ -1,5 +1,5 @@
 ---
 title: "Running Room"
 url: /saskatoon/running-room/
-shop: sports
+shop: Sport
 ---

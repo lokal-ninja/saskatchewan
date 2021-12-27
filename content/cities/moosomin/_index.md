@@ -1,6 +1,6 @@
 ---
 title: Moosomin
 url: /moosomin/
-latitude: 50.144378700000004
-longitude: -101.66905940000001
+latitude: 50.147
+longitude: -101.669
 ---

@@ -1,6 +1,6 @@
 ---
 title: Luseland
 url: /luseland/
-latitude: 
-longitude: 
+latitude: 52.08
+longitude: -109.392
 ---

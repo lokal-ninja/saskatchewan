@@ -1,6 +1,6 @@
 ---
 title: Mossbank
 url: /mossbank/
-latitude: 49.940155600000004
-longitude: -105.96256860000001
+latitude: 49.937
+longitude: -105.965
 ---

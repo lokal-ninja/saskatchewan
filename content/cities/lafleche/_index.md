@@ -1,6 +1,6 @@
 ---
 title: Lafleche
 url: /lafleche/
-latitude: 
-longitude: 
+latitude: 49.708
+longitude: -106.574
 ---

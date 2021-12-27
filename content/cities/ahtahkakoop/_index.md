@@ -1,6 +1,6 @@
 ---
 title: Ahtahkakoop
 url: /ahtahkakoop/
-latitude: 
-longitude: 
+latitude: 53.44
+longitude: -106.767
 ---

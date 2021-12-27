@@ -1,6 +1,6 @@
 ---
 title: Christopher Lake
 url: /christopher-lake/
-latitude: 53.53979330000001
-longitude: -105.78931440000001
+latitude: 53.853
+longitude: -105.923
 ---

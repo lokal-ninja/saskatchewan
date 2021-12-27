@@ -1,6 +1,6 @@
 ---
 title: Watrous
 url: /watrous/
-latitude: 51.675148
-longitude: -105.4655393
+latitude: 51.674
+longitude: -105.467
 ---

@@ -1,5 +1,5 @@
 ---
 title: "itcomputes"
 url: /carnduff/itcomputes/
-shop: computer
+shop: Computer
 ---

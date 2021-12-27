@@ -1,6 +1,6 @@
 ---
 title: Dilke
 url: /dilke/
-latitude: 50.866667
-longitude: -105.25
+latitude: 50.865
+longitude: -105.251
 ---

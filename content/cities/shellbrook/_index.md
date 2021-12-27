@@ -1,6 +1,6 @@
 ---
 title: Shellbrook
 url: /shellbrook/
-latitude: 53.222480000000004
-longitude: -106.387482
+latitude: 53.218
+longitude: -106.393
 ---

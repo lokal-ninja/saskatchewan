@@ -1,5 +1,5 @@
 ---
 title: "Waskesiu Trading Company"
 url: /waskesiu-lake/waskesiu-trading-company/
-shop: convenience
+shop: Lebensmittel
 ---

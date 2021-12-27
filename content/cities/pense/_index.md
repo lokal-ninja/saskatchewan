@@ -1,6 +1,6 @@
 ---
 title: Pense
 url: /pense/
-latitude: 50.4159384
-longitude: -104.9828583
+latitude: 50.414
+longitude: -104.984
 ---

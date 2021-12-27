@@ -1,6 +1,6 @@
 ---
 title: Meadow Lake
 url: /meadow-lake/
-latitude: 54.13026
-longitude: -108.43505900000001
+latitude: 54.122
+longitude: -108.451
 ---

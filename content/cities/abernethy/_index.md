@@ -1,6 +1,6 @@
 ---
 title: Abernethy
 url: /abernethy/
-latitude: 
-longitude: 
+latitude: 50.745
+longitude: -103.419
 ---

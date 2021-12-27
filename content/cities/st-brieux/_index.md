@@ -1,6 +1,6 @@
 ---
 title: St Brieux
 url: /st-brieux/
-latitude: 
-longitude: 
+latitude: 52.639
+longitude: -104.884
 ---

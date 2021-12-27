@@ -1,6 +1,6 @@
 ---
 title: Kinistino
 url: /kinistino/
-latitude: 52.952775
-longitude: -105.029297
+latitude: 52.95
+longitude: -105.032
 ---

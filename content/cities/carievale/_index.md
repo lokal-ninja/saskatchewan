@@ -1,6 +1,6 @@
 ---
 title: Carievale
 url: /carievale/
-latitude: 49.175594100000005
-longitude: -101.62655160000001
+latitude: 49.177
+longitude: -101.627
 ---

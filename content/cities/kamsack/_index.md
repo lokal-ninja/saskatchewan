@@ -1,6 +1,6 @@
 ---
 title: Kamsack
 url: /kamsack/
-latitude: 51.564543300000004
-longitude: -101.89530880000001
+latitude: 51.564
+longitude: -101.9
 ---

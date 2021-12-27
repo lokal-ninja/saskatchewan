@@ -1,6 +1,6 @@
 ---
 title: Swift Current
 url: /swift-current/
-latitude: 50.284913800000005
-longitude: -107.79844960000001
+latitude: 50.298
+longitude: -107.799
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bulyea
 url: /bulyea/
-latitude: 50.9861732
-longitude: -104.86599020000001
+latitude: 50.987
+longitude: -104.864
 ---

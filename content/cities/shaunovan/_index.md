@@ -1,6 +1,6 @@
 ---
 title: Shaunovan
 url: /shaunovan/
-latitude: 
-longitude: 
+latitude: 49.648
+longitude: -108.409
 ---

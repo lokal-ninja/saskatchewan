@@ -1,6 +1,6 @@
 ---
 title: Wadena
 url: /wadena/
-latitude: 51.9439343
-longitude: -103.80226160000001
+latitude: 51.945
+longitude: -103.802
 ---

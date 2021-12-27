@@ -1,6 +1,6 @@
 ---
 title: Pangman
 url: /pangman/
-latitude: 49.646805500000006
-longitude: -104.65819
+latitude: 49.647
+longitude: -104.659
 ---

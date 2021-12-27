@@ -1,6 +1,6 @@
 ---
 title: Churchbridge
 url: /churchbridge/
-latitude: 50.900088600000004
-longitude: -101.89330190000001
+latitude: 50.897
+longitude: -101.895
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clavet
 url: /clavet/
-latitude: 51.995874
-longitude: -106.376495
+latitude: 52.143
+longitude: -106.399
 ---

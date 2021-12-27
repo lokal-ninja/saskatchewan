@@ -1,6 +1,6 @@
 ---
 title: Bengough
 url: /bengough/
-latitude: 49.395277400000005
-longitude: -105.1257922
+latitude: 49.397
+longitude: -105.13
 ---

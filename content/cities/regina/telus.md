@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /regina/telus/
-shop: mobile phone
+shop: Handy
 ---

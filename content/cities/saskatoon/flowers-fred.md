@@ -1,5 +1,5 @@
 ---
 title: "Flowers Fred"
 url: /saskatoon/flowers-fred/
-shop: florist
+shop: Blumen
 ---

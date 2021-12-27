@@ -1,6 +1,6 @@
 ---
 title: Cochin
 url: /cochin/
-latitude: 
-longitude: 
+latitude: 53.078
+longitude: -108.337
 ---

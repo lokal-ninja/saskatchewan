@@ -1,6 +1,6 @@
 ---
 title: Oxbow
 url: /oxbow/
-latitude: 49.2298181
-longitude: -102.17366600000001
+latitude: 49.227
+longitude: -102.164
 ---

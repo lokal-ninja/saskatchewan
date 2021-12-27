@@ -1,6 +1,6 @@
 ---
 title: Kronau
 url: /kronau/
-latitude: 50.306013
-longitude: -104.2950163
+latitude: 50.306
+longitude: -104.292
 ---

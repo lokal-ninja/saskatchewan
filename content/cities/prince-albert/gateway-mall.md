@@ -1,5 +1,5 @@
 ---
 title: "Gateway Mall"
 url: /prince-albert/gateway-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

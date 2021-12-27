@@ -1,6 +1,6 @@
 ---
 title: Weyburn
 url: /weyburn/
-latitude: 49.669405000000005
-longitude: -103.85101300000001
+latitude: 49.667
+longitude: -103.899
 ---

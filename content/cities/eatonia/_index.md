@@ -1,6 +1,6 @@
 ---
 title: Eatonia
 url: /eatonia/
-latitude: 51.2241821
-longitude: -109.3900359
+latitude: 51.221
+longitude: -109.386
 ---
