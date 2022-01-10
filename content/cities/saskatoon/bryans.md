@@ -1,5 +1,5 @@
 ---
 title: "Bryan's"
 url: /saskatoon/bryans/
-shop: Kleidung
+shop: clothes
 ---

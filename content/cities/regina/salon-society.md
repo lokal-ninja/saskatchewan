@@ -1,5 +1,5 @@
 ---
 title: "Salon Society"
 url: /regina/salon-society/
-shop: Friseur
+shop: hairdresser
 ---

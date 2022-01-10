@@ -1,5 +1,5 @@
 ---
 title: "McComb Automotive"
 url: /carnduff/mccomb-automotive/
-shop: Autoteile
+shop: car parts
 ---

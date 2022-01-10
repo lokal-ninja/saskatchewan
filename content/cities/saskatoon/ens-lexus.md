@@ -1,5 +1,5 @@
 ---
 title: "ENS Lexus"
 url: /saskatoon/ens-lexus/
-shop: Autohaus
+shop: car
 ---

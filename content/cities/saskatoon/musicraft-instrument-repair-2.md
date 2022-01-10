@@ -1,5 +1,5 @@
 ---
 title: "Musicraft Instrument Repair"
 url: /saskatoon/musicraft-instrument-repair-2/
-shop: Instrumente
+shop: musical instrument
 ---

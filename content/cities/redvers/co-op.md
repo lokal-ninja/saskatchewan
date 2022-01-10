@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /redvers/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

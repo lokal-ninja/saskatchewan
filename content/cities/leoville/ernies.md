@@ -1,5 +1,5 @@
 ---
 title: "Ernie's"
 url: /leoville/ernies/
-shop: Lebensmittel
+shop: convenience
 ---

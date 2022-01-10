@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /birch-hills/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

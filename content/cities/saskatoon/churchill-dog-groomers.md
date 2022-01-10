@@ -1,5 +1,5 @@
 ---
 title: "Churchill Dog Groomers"
 url: /saskatoon/churchill-dog-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

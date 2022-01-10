@@ -1,5 +1,5 @@
 ---
 title: "The Little Market Box"
 url: /saskatoon/the-little-market-box/
-shop: Hofladen
+shop: farm
 ---

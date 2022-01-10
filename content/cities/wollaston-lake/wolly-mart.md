@@ -1,5 +1,5 @@
 ---
 title: "Wolly Mart"
 url: /wollaston-lake/wolly-mart/
-shop: Supermarkt
+shop: supermarket
 ---

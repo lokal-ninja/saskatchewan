@@ -1,5 +1,5 @@
 ---
 title: "Sunsera Salons"
 url: /warman/sunsera-salons/
-shop: Kosmetik
+shop: beauty
 ---

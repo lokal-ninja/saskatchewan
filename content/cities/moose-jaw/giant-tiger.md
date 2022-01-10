@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /moose-jaw/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

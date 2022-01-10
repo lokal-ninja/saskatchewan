@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /saskatoon/value-village/
-shop: Kleidung
+shop: clothes
 ---

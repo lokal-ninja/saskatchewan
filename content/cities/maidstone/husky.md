@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /maidstone/husky/
-shop: Lebensmittel
+shop: convenience
 ---

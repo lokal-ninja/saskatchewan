@@ -1,5 +1,5 @@
 ---
 title: "Dollarama - Cornwall Centre"
 url: /regina/dollarama-cornwall-centre/
-shop: Kramladen
+shop: variety store
 ---

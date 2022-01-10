@@ -1,5 +1,5 @@
 ---
 title: "PartSource"
 url: /saskatoon/partsource/
-shop: Autowerkstatt
+shop: car repair
 ---

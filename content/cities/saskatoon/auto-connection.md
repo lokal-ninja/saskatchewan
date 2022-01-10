@@ -1,5 +1,5 @@
 ---
 title: "Auto Connection"
 url: /saskatoon/auto-connection/
-shop: Autowerkstatt
+shop: car repair
 ---

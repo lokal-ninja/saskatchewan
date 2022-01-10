@@ -1,5 +1,5 @@
 ---
 title: "East Side Husky"
 url: /lloydminster/east-side-husky/
-shop: Lebensmittel
+shop: convenience
 ---

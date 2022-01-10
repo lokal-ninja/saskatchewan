@@ -1,5 +1,5 @@
 ---
 title: "Bennett's Garage"
 url: /chamberlain/bennetts-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

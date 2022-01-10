@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /regina/zumiez/
-shop: Kleidung
+shop: clothes
 ---

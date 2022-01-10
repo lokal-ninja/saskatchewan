@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /la-ronge/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

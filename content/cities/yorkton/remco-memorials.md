@@ -1,5 +1,5 @@
 ---
 title: "Remco Memorials"
 url: /yorkton/remco-memorials/
-shop: Steine
+shop: stones
 ---

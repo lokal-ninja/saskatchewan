@@ -1,5 +1,5 @@
 ---
 title: "SLGA Liquor Store"
 url: /saskatoon/slga-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

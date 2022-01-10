@@ -1,5 +1,5 @@
 ---
 title: "Darkside Donuts"
 url: /saskatoon/darkside-donuts/
-shop: Konditorei
+shop: pastry
 ---

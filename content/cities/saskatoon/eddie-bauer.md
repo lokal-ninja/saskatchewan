@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /saskatoon/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

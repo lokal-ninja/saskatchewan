@@ -1,5 +1,5 @@
 ---
 title: "Solvey Motors"
 url: /fort-quappelle/solvey-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

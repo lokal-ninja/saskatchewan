@@ -1,5 +1,5 @@
 ---
 title: "Virgin Mobile"
 url: /saskatoon/virgin-mobile/
-shop: Handy
+shop: mobile phone
 ---

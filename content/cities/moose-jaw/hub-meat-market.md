@@ -1,5 +1,5 @@
 ---
 title: "Hub Meat Market"
 url: /moose-jaw/hub-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

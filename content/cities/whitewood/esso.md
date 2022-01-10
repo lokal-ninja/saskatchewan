@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /whitewood/esso/
-shop: Lebensmittel
+shop: convenience
 ---

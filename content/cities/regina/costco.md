@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /regina/costco/
-shop: Großhandel
+shop: wholesale
 ---
