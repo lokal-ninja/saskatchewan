@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/saskatchewan"
+baseURL = "https://ca.shoogle.net/saskatchewan/"
 languageCode = "en-US"
 title = "Saskatchewan"
 theme = "ln-base"
