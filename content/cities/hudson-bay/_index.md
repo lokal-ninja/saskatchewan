@@ -1,6 +1,6 @@
 ---
 title: Hudson Bay
 url: /hudson-bay/
-latitude: 52.862
-longitude: -102.386
+latitude: 52.86
+longitude: -102.39
 ---
