@@ -1,6 +1,6 @@
 ---
 title: Lloydminster
 url: /lloydminster/
-latitude: 53.278
-longitude: -110.003
+latitude: 53.275
+longitude: -110.006
 ---
