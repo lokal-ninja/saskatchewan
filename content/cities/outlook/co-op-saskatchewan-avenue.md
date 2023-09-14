@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
-url: /outlook/co-op/
+url: /outlook/co-op-saskatchewan-avenue/
 shop: supermarket
 ---

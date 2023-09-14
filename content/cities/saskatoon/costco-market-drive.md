@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /saskatoon/costco/
+url: /saskatoon/costco-market-drive/
 shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /saskatoon/sobeys/
+url: /saskatoon/sobeys-preston-avenue-south/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /saskatoon/circle-k/
+url: /saskatoon/circle-k-hampton-circle/
 shop: convenience
 ---

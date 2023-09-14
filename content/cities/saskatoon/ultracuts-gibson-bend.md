@@ -1,5 +1,5 @@
 ---
 title: "Ultracuts"
-url: /saskatoon/ultracuts/
+url: /saskatoon/ultracuts-gibson-bend/
 shop: hairdresser
 ---

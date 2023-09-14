@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /saskatoon/circle-k/
+url: /saskatoon/circle-k-kenderdine-road/
 shop: convenience
 ---

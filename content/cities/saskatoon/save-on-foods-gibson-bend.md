@@ -1,5 +1,5 @@
 ---
 title: "Save-On-Foods"
-url: /saskatoon/save-on-foods/
+url: /saskatoon/save-on-foods-gibson-bend/
 shop: supermarket
 ---
