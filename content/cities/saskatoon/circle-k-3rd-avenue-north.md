@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /saskatoon/circle-k-hampton-circle/
+url: /saskatoon/circle-k-3rd-avenue-north/
 shop: convenience
 ---
