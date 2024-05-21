@@ -1,6 +1,6 @@
 ---
 title: Kipling
 url: /kipling/
-latitude: 50.103
+latitude: 50.102
 longitude: -102.631
 ---
