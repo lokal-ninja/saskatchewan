@@ -1,5 +1,5 @@
 ---
 title: "Sedley Country Convenience"
 url: /sedley/sedley-country-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

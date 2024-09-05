@@ -1,5 +1,5 @@
 ---
 title: "Toys R Us"
 url: /saskatoon/toys-r-us/
-shop: toys
+shop: Spielzeug
 ---

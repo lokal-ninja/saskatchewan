@@ -1,5 +1,5 @@
 ---
 title: "Humble House Bakery"
 url: /saskatoon/humble-house-bakery/
-shop: bakery
+shop: Bäckerei
 ---

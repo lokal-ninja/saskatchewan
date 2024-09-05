@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /saskatoon/hallmark/
-shop: gift
+shop: Andenken
 ---

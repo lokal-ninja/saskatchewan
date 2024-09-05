@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /saskatoon/husky/
-shop: convenience
+shop: Lebensmittel
 ---

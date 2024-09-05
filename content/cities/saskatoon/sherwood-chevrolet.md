@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Chevrolet"
 url: /saskatoon/sherwood-chevrolet/
-shop: car
+shop: Autohaus
 ---

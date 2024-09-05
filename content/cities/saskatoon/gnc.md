@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /saskatoon/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

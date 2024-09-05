@@ -1,5 +1,5 @@
 ---
 title: "Brandee's Boutique and Sunless Tanning"
 url: /regina/brandees-boutique-and-sunless-tanning/
-shop: beauty
+shop: Kosmetik
 ---

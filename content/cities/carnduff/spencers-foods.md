@@ -1,5 +1,5 @@
 ---
 title: "Spencer's Foods"
 url: /carnduff/spencers-foods/
-shop: supermarket
+shop: Supermarkt
 ---

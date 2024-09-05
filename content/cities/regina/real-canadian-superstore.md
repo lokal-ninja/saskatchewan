@@ -1,5 +1,5 @@
 ---
 title: "Real Canadian Superstore"
 url: /regina/real-canadian-superstore/
-shop: supermarket
+shop: Supermarkt
 ---

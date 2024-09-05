@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /saskatoon/boathouse/
-shop: clothes
+shop: Kleidung
 ---

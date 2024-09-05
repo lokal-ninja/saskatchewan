@@ -1,5 +1,5 @@
 ---
 title: "The Brick"
 url: /estevan/the-brick/
-shop: furniture
+shop: Möbel
 ---

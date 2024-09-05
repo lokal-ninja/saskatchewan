@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /moose-jaw/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

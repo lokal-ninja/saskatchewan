@@ -1,5 +1,5 @@
 ---
 title: "Wilson's Greenhouse"
 url: /saskatoon/wilsons-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

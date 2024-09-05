@@ -1,5 +1,5 @@
 ---
 title: "McMahon Co-op"
 url: /mcmahon/mcmahon-co-op/
-shop: hardware
+shop: Eisenwaren
 ---

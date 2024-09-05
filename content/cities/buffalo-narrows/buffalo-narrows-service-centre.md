@@ -1,5 +1,5 @@
 ---
 title: "Buffalo Narrows service centre"
 url: /buffalo-narrows/buffalo-narrows-service-centre/
-shop: car repair
+shop: Autowerkstatt
 ---

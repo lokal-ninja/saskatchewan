@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /saskatoon/ardene/
-shop: clothes
+shop: Kleidung
 ---

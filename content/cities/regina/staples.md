@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /regina/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

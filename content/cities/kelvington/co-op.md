@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /kelvington/co-op/
-shop: supermarket
+shop: Supermarkt
 ---

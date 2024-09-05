@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /saskatoon/aldo/
-shop: shoes
+shop: Schuhe
 ---

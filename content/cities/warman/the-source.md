@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /warman/the-source/
-shop: electronics
+shop: Elektronik
 ---
