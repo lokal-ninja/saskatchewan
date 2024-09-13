@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /saskatoon/petsmart/
-shop: Tiere
+shop: pet
 ---

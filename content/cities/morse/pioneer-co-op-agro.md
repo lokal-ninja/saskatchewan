@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Co-op Agro"
 url: /morse/pioneer-co-op-agro/
-shop: Eisenwaren
+shop: hardware
 ---

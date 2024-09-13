@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /pangman/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

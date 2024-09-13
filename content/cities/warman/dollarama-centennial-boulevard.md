@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /warman/dollarama-centennial-boulevard/
-shop: Kramladen
+shop: variety store
 ---

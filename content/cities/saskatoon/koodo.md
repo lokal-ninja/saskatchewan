@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /saskatoon/koodo/
-shop: Handy
+shop: mobile phone
 ---

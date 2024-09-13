@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /saskatoon/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

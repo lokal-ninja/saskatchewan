@@ -1,5 +1,5 @@
 ---
 title: "Eclipse"
 url: /estevan/eclipse/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /saskatoon/costco/
-shop: Großhandel
+shop: wholesale
 ---

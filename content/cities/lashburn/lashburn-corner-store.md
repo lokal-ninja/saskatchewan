@@ -1,5 +1,5 @@
 ---
 title: "Lashburn Corner Store"
 url: /lashburn/lashburn-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

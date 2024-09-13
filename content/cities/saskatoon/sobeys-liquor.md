@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Liquor"
 url: /saskatoon/sobeys-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

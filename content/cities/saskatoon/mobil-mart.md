@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /saskatoon/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

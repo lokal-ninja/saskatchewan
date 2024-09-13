@@ -1,5 +1,5 @@
 ---
 title: "Senchuk Ford Sales Ltd."
 url: /estevan/senchuk-ford-sales-ltd/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /warman/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

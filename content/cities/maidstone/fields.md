@@ -1,5 +1,5 @@
 ---
 title: "Fields"
 url: /maidstone/fields/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /bulyea/co-op/
-shop: Eisenwaren
+shop: hardware
 ---

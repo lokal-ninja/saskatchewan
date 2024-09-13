@@ -1,5 +1,5 @@
 ---
 title: "Carnduff Agencies Insurance Broker"
 url: /carnduff/carnduff-agencies-insurance-broker/
-shop: Reisebüro
+shop: travel agency
 ---

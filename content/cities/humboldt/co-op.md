@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /humboldt/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /langbank/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

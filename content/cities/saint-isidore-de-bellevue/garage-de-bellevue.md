@@ -1,5 +1,5 @@
 ---
 title: "Garage de Bellevue"
 url: /saint-isidore-de-bellevue/garage-de-bellevue/
-shop: Autowerkstatt
+shop: car repair
 ---

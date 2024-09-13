@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /estevan/dollarama/
-shop: Kramladen
+shop: variety store
 ---

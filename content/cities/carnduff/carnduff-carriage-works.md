@@ -1,5 +1,5 @@
 ---
 title: "Carnduff Carriage Works"
 url: /carnduff/carnduff-carriage-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /warman/dollarama/
-shop: Kramladen
+shop: variety store
 ---

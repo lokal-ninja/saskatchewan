@@ -1,5 +1,5 @@
 ---
 title: "Lew Brothers Grocery"
 url: /saskatoon/lew-brothers-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

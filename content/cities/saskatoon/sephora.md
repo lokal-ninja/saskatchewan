@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /saskatoon/sephora/
-shop: Kosmetik
+shop: beauty
 ---

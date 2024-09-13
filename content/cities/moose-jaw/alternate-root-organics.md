@@ -1,5 +1,5 @@
 ---
 title: "Alternate Root Organics"
 url: /moose-jaw/alternate-root-organics/
-shop: Bioladen
+shop: health food
 ---

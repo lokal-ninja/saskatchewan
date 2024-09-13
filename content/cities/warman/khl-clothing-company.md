@@ -1,5 +1,5 @@
 ---
 title: "KHL Clothing Company"
 url: /warman/khl-clothing-company/
-shop: Kleidung
+shop: clothes
 ---

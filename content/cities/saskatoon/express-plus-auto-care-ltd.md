@@ -1,5 +1,5 @@
 ---
 title: "Express Plus Auto Care LTD"
 url: /saskatoon/express-plus-auto-care-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

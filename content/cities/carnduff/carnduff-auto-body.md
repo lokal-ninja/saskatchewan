@@ -1,5 +1,5 @@
 ---
 title: "Carnduff Auto Body"
 url: /carnduff/carnduff-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

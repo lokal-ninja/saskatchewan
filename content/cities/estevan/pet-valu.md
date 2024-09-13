@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /estevan/pet-valu/
-shop: Tiere
+shop: pet
 ---

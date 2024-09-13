@@ -1,5 +1,5 @@
 ---
 title: "CO-OP"
 url: /whitewood/co-op/
-shop: Eisenwaren
+shop: hardware
 ---

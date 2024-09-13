@@ -1,5 +1,5 @@
 ---
 title: "Lions Creek"
 url: /moose-jaw/lions-creek/
-shop: Bioladen
+shop: health food
 ---

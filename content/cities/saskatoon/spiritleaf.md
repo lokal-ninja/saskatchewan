@@ -1,5 +1,5 @@
 ---
 title: "Spiritleaf"
 url: /saskatoon/spiritleaf/
-shop: Hanf
+shop: cannabis
 ---

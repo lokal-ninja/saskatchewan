@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /carlyle/co-op/
-shop: Allgemein
+shop: shop
 ---

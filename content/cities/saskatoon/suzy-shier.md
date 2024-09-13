@@ -1,5 +1,5 @@
 ---
 title: "Suzy Shier"
 url: /saskatoon/suzy-shier/
-shop: Kleidung
+shop: clothes
 ---

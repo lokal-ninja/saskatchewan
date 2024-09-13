@@ -1,5 +1,5 @@
 ---
 title: "Marina Rentals"
 url: /regina/marina-rentals/
-shop: Mieten
+shop: storage rental
 ---

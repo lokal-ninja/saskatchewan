@@ -1,5 +1,5 @@
 ---
 title: "Trinos Menswear"
 url: /regina/trinos-menswear/
-shop: Kleidung
+shop: clothes
 ---

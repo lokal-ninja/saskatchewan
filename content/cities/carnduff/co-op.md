@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /carnduff/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

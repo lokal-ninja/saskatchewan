@@ -1,5 +1,5 @@
 ---
 title: "Be Healthy"
 url: /kipling/be-healthy/
-shop: Massage
+shop: massage
 ---

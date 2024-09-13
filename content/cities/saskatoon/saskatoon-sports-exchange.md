@@ -1,5 +1,5 @@
 ---
 title: "Saskatoon Sports Exchange"
 url: /saskatoon/saskatoon-sports-exchange/
-shop: Sport
+shop: sports
 ---

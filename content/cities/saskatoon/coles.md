@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /saskatoon/coles/
-shop: Bücher
+shop: books
 ---
