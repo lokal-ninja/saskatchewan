@@ -1,11 +1,11 @@
 id: 482934884
-type: way
+type: node
 latitude: 50.41171
 longitude: -107.0377
-postcode: "S0H 3C0"
+postcode: S0H 3C0
 city: Morse
-street: "South Railway Avenue"
-housenumber: 129
-phone: "+1-306-629-3340"
+street: South Railway Avenue
+housenumber: "129"
+phone: +1-306-629-3340
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 538038248
-type: way
+type: node
 latitude: 50.4025
 longitude: -105.57542
-postcode: "S6H 7N4"
+postcode: S6H 7N4
 city: Moose Jaw
-street: "13th Avenue NW"
-housenumber: 1210
-phone: "+1-306-692-1779"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/21125"
+street: 13th Avenue NW
+housenumber: "1210"
+phone: +1-306-692-1779
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/21125

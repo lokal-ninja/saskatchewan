@@ -1,11 +1,11 @@
 id: 288670022
-type: way
+type: node
 latitude: 50.45272
 longitude: -104.61866
-postcode: "S4P 2S6"
+postcode: S4P 2S6
 city: Regina
-street: "Albert Street"
-housenumber: 1640
+street: Albert Street
+housenumber: "1640"
 phone: ""
 opening_hours: ""
 website: ""

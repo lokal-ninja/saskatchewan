@@ -1,11 +1,11 @@
 id: 428549331
-type: way
+type: node
 latitude: 52.08684
 longitude: -106.65558
-postcode: "S7J 5J5"
+postcode: S7J 5J5
 city: Saskatoon
-street: "Brand Road"
-housenumber: 707
-phone: "+1-306-343-6487"
+street: Brand Road
+housenumber: "707"
+phone: +1-306-343-6487
 opening_hours: ""
-website: "http://saskatoonmitsubishi.com"
+website: http://saskatoonmitsubishi.com

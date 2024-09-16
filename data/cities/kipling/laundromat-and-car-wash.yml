@@ -1,11 +1,11 @@
 id: 558125872
-type: way
+type: node
 latitude: 50.1023
 longitude: -102.63001
-postcode: "S0G 2S0"
+postcode: S0G 2S0
 city: Kipling
-street: "Main Street"
-housenumber: 502
+street: Main Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

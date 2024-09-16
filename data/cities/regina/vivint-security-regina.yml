@@ -2,10 +2,10 @@ id: 6828600165
 type: node
 latitude: 50.45809
 longitude: -104.61638
-postcode: "S4R 2M9"
+postcode: S4R 2M9
 city: Regina
-street: "McIntyre Street"
-housenumber: 1333
-phone: "+1-780-851-7488"
+street: McIntyre Street
+housenumber: "1333"
+phone: +1-780-851-7488
 opening_hours: ""
-website: "http://vivintsmarthomeregina.com"
+website: http://vivintsmarthomeregina.com

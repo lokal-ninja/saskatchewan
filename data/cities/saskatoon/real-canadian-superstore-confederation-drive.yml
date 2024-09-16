@@ -1,11 +1,11 @@
 id: 261298861
-type: way
+type: node
 latitude: 52.13274
 longitude: -106.72674
-postcode: "S7L 5C3"
+postcode: S7L 5C3
 city: Saskatoon
-street: "Confederation Drive"
-housenumber: 411
-phone: "+1 306-683-5634"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1536"
+street: Confederation Drive
+housenumber: "411"
+phone: +1 306-683-5634
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1536

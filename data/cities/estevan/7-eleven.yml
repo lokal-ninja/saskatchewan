@@ -1,11 +1,11 @@
 id: 207243352
-type: way
+type: node
 latitude: 49.13612
 longitude: -102.98209
-postcode: "S4A 0V2"
+postcode: S4A 0V2
 city: Estevan
-street: "4th Street"
-housenumber: 537
+street: 4th Street
+housenumber: "537"
 phone: ""
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/17649"
+website: https://stores.7-eleven.ca/store/17649

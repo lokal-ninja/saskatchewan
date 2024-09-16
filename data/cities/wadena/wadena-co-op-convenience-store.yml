@@ -1,11 +1,11 @@
 id: 535347212
-type: way
+type: node
 latitude: 51.94512
 longitude: -103.80218
-postcode: "S0A 4J0"
+postcode: S0A 4J0
 city: Wadena
-street: "Main Street North"
-housenumber: 73
-phone: "+1-306-338-2511"
+street: Main Street North
+housenumber: "73"
+phone: +1-306-338-2511
 opening_hours: ""
 website: ""

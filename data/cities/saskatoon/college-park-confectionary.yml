@@ -1,11 +1,11 @@
 id: 269888550
-type: way
+type: node
 latitude: 52.12464
 longitude: -106.59673
-postcode: "S7H 3V4"
+postcode: S7H 3V4
 city: Saskatoon
-street: "Acadia Drive"
-housenumber: 270
+street: Acadia Drive
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

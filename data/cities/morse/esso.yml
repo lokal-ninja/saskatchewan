@@ -1,11 +1,11 @@
 id: 482934886
-type: way
+type: node
 latitude: 50.41055
 longitude: -107.03683
-postcode: "S0H 3C0"
+postcode: S0H 3C0
 city: Morse
-street: "George Avenue"
-housenumber: 101
-phone: "+1-306-990-0786"
+street: George Avenue
+housenumber: "101"
+phone: +1-306-990-0786
 opening_hours: ""
 website: ""

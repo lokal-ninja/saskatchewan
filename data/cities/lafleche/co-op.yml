@@ -1,11 +1,11 @@
 id: 535296332
-type: way
+type: node
 latitude: 49.70791
 longitude: -106.57369
-postcode: "S0H 2K0"
+postcode: S0H 2K0
 city: Lafleche
-street: "Main Street"
-housenumber: 41
-phone: "+1-306-482-5510"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 12:00-17:00"
-website: "https://www.southlandco-op.crs/sites/southland"
+street: Main Street
+housenumber: "41"
+phone: +1-306-482-5510
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 12:00-17:00
+website: https://www.southlandco-op.crs/sites/southland

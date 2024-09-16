@@ -1,11 +1,11 @@
 id: 1119473808
-type: way
+type: node
 latitude: 52.11438
 longitude: -106.69528
-postcode: "S7M 1H6"
+postcode: S7M 1H6
 city: Saskatoon
-street: "11th Street West"
-housenumber: 1601
-phone: "+1 306 664 6411"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.a1tiresaskatoon.com/"
+street: 11th Street West
+housenumber: "1601"
+phone: +1 306 664 6411
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.a1tiresaskatoon.com/

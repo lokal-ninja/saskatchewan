@@ -1,11 +1,11 @@
 id: 655440698
-type: way
+type: node
 latitude: 50.76974
 longitude: -103.79522
-postcode: "S0G 1S0"
+postcode: S0G 1S0
 city: Fort Qu'Appelle
-street: "Broadway Street West"
-housenumber: 120
-phone: "+1 306-332-6603"
+street: Broadway Street West
+housenumber: "120"
+phone: +1 306-332-6603
 opening_hours: ""
 website: ""

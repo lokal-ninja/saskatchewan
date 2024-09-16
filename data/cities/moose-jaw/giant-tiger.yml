@@ -1,11 +1,11 @@
 id: 543922579
-type: way
+type: node
 latitude: 50.38936
 longitude: -105.5328
 postcode: ""
 city: Moose Jaw
-street: "Manitoba Street E"
-housenumber: 71
+street: Manitoba Street E
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

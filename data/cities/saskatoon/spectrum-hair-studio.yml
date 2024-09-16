@@ -1,11 +1,11 @@
 id: 552425559
-type: way
+type: node
 latitude: 52.11864
 longitude: -106.65718
 postcode: ""
 city: Saskatoon
-street: "Broadway Avenue"
-housenumber: 706
+street: Broadway Avenue
+housenumber: "706"
 phone: ""
 opening_hours: ""
 website: ""

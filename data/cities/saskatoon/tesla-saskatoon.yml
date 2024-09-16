@@ -1,11 +1,11 @@
 id: 428567879
-type: way
+type: node
 latitude: 52.08542
 longitude: -106.65402
-postcode: "S7J 5L2"
+postcode: S7J 5L2
 city: Saskatoon
-street: "Melville Street"
-housenumber: 703
-phone: "+1-306-986-1290"
-opening_hours: "Tu-Sa 10:00-18:00; Su off"
+street: Melville Street
+housenumber: "703"
+phone: +1-306-986-1290
+opening_hours: Tu-Sa 10:00-18:00; Su off
 website: ""

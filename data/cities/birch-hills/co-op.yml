@@ -1,11 +1,11 @@
 id: 536478440
-type: way
+type: node
 latitude: 52.98453
 longitude: -105.43919
-postcode: "S0J"
+postcode: S0J
 city: Birch Hills
-street: "Wilson Street"
-housenumber: 9
+street: Wilson Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

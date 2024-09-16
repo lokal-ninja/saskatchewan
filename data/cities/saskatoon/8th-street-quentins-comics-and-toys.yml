@@ -4,8 +4,8 @@ latitude: 52.11461
 longitude: -106.64596
 postcode: ""
 city: Saskatoon
-street: "8th Street East"
-housenumber: 1006
+street: 8th Street East
+housenumber: "1006"
 phone: "+13063436624"
-opening_hours: "Mo,Tu,Sa 10:00-18:00; We-Fr 10:00-20:00; Su 12:00-18:00"
-website: "https://8thcomics.com/"
+opening_hours: Mo,Tu,Sa 10:00-18:00; We-Fr 10:00-20:00; Su 12:00-18:00
+website: https://8thcomics.com/

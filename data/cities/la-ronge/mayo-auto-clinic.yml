@@ -1,11 +1,11 @@
 id: 316324437
-type: way
+type: node
 latitude: 55.10646
 longitude: -105.28955
-postcode: "S0J 1L0"
+postcode: S0J 1L0
 city: La Ronge
-street: "Backlund Street"
-housenumber: 235
-phone: "+1-306-425-3695"
+street: Backlund Street
+housenumber: "235"
+phone: +1-306-425-3695
 opening_hours: ""
 website: ""

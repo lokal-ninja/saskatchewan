@@ -1,11 +1,11 @@
 id: 328718382
-type: way
+type: node
 latitude: 52.39544
 longitude: -104.98006
-postcode: "S0K 2J0"
+postcode: S0K 2J0
 city: Lake Lenore
-street: "Lake Drive"
-housenumber: 300
-phone: "+1-306-638-2255"
+street: Lake Drive
+housenumber: "300"
+phone: +1-306-638-2255
 opening_hours: ""
 website: ""

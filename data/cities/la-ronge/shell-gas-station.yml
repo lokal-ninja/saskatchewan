@@ -1,11 +1,11 @@
 id: 316324451
-type: way
+type: node
 latitude: 55.10018
 longitude: -105.30279
-postcode: "S0J 1L0"
+postcode: S0J 1L0
 city: La Ronge
-street: "Brown Street"
-housenumber: 111
+street: Brown Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

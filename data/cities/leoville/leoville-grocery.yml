@@ -1,11 +1,11 @@
 id: 737949337
-type: way
+type: node
 latitude: 53.63091
 longitude: -107.55355
-postcode: "S0J 1N0"
+postcode: S0J 1N0
 city: Leoville
-street: "Main Street"
-housenumber: 11
-phone: "+1-306-984-4410"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-21:00; Sa 09:00-18:00"
+street: Main Street
+housenumber: "11"
+phone: +1-306-984-4410
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-21:00; Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 435026879
-type: way
+type: node
 latitude: 49.22862
 longitude: -102.17351
-postcode: "S0C 2B0"
+postcode: S0C 2B0
 city: Oxbow
-street: "Railway Avenue"
-housenumber: 512
-phone: "+1-306-483-5266"
+street: Railway Avenue
+housenumber: "512"
+phone: +1-306-483-5266
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1087207702
-type: way
+type: node
 latitude: 52.20035
 longitude: -105.14808
 postcode: ""
 city: Humboldt
-street: "8th Avenue"
-housenumber: 2302
+street: 8th Avenue
+housenumber: "2302"
 phone: ""
 opening_hours: ""
 website: ""

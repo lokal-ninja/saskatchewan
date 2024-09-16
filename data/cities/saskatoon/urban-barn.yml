@@ -1,11 +1,11 @@
 id: 428721395
-type: way
+type: node
 latitude: 52.08417
 longitude: -106.64821
-postcode: "S7T 0C9"
+postcode: S7T 0C9
 city: Saskatoon
-street: "Clarence Avenue"
-housenumber: 3142
-phone: "+1-306-933-9770"
+street: Clarence Avenue
+housenumber: "3142"
+phone: +1-306-933-9770
 opening_hours: ""
-website: "https://www.urbanbarn.com/store-locator/saskatoon.do"
+website: https://www.urbanbarn.com/store-locator/saskatoon.do

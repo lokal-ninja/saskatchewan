@@ -1,11 +1,11 @@
 id: 211822985
-type: way
+type: node
 latitude: 50.8013
 longitude: -106.51178
-postcode: "S0H 0T0"
+postcode: S0H 0T0
 city: Central Butte
-street: "Service Road"
-housenumber: 720
-phone: "+1-306-796-4832"
+street: Service Road
+housenumber: "720"
+phone: +1-306-796-4832
 opening_hours: ""
 website: ""

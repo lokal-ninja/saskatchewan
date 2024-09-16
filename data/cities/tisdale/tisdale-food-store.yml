@@ -1,11 +1,11 @@
 id: 990089424
-type: way
+type: node
 latitude: 52.84027
 longitude: -104.05492
 postcode: ""
 city: Tisdale
-street: "93 Avenue"
-housenumber: 904
+street: 93 Avenue
+housenumber: "904"
 phone: ""
 opening_hours: ""
 website: ""

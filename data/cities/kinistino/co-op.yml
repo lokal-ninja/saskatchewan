@@ -1,11 +1,11 @@
 id: 535569420
-type: way
+type: node
 latitude: 52.95005
 longitude: -105.03168
-postcode: "S0J 1H0"
+postcode: S0J 1H0
 city: Kinistino
-street: "Main Street South"
-housenumber: 100
-phone: "+1-306-864-2202"
+street: Main Street South
+housenumber: "100"
+phone: +1-306-864-2202
 opening_hours: ""
 website: ""

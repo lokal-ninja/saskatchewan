@@ -1,11 +1,11 @@
 id: 161636552
-type: way
+type: node
 latitude: 50.93608
 longitude: -102.81975
-postcode: "S0A 2P0"
+postcode: S0A 2P0
 city: Melville
-street: "7 Avenue West"
-housenumber: 825
+street: 7 Avenue West
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

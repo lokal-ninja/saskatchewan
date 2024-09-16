@@ -1,11 +1,11 @@
 id: 538043348
-type: way
+type: node
 latitude: 50.41134
 longitude: -105.51263
-postcode: "S6H 6M3"
+postcode: S6H 6M3
 city: Moose Jaw
-street: "9th Avenue NE"
-housenumber: 1592
-phone: "+1-306-693-1928"
+street: 9th Avenue NE
+housenumber: "1592"
+phone: +1-306-693-1928
 opening_hours: ""
 website: ""

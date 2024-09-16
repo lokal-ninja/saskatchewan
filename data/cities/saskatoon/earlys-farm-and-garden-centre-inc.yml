@@ -1,11 +1,11 @@
 id: 428292438
-type: way
+type: node
 latitude: 52.09622
 longitude: -106.67016
-postcode: "S7J 0S5"
+postcode: S7J 0S5
 city: Saskatoon
-street: "Lorne Avenue"
-housenumber: 2615
-phone: "+1-306-931-1982"
+street: Lorne Avenue
+housenumber: "2615"
+phone: +1-306-931-1982
 opening_hours: ""
-website: "https://www.earlysgarden.com/"
+website: https://www.earlysgarden.com/

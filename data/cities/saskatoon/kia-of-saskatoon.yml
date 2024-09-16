@@ -1,11 +1,11 @@
 id: 428549311
-type: way
+type: node
 latitude: 52.08605
 longitude: -106.65343
-postcode: "S7J 5J3"
+postcode: S7J 5J3
 city: Saskatoon
-street: "Brand Road"
-housenumber: 730
-phone: "+1-306-955-5080"
+street: Brand Road
+housenumber: "730"
+phone: +1-306-955-5080
 opening_hours: ""
-website: "https://www.kiaofsaskatoon.com/"
+website: https://www.kiaofsaskatoon.com/

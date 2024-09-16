@@ -1,11 +1,11 @@
 id: 544395302
-type: way
+type: node
 latitude: 53.27842
 longitude: -109.99779
 postcode: ""
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 4702
-phone: "+1-306-825-5480"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/26341"
+street: Ray Nelson Drive
+housenumber: "4702"
+phone: +1-306-825-5480
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/26341

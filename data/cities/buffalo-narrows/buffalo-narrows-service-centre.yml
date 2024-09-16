@@ -1,11 +1,11 @@
 id: 534275846
-type: way
+type: node
 latitude: 55.85675
 longitude: -108.47922
-postcode: "S0M 0J0"
+postcode: S0M 0J0
 city: Buffalo Narrows
-street: "Buffalo Street"
-housenumber: 400
-phone: "+1-306-235-4822"
+street: Buffalo Street
+housenumber: "400"
+phone: +1-306-235-4822
 opening_hours: ""
 website: ""

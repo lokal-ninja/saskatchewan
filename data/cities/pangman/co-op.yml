@@ -1,11 +1,11 @@
 id: 535295787
-type: way
+type: node
 latitude: 49.64702
 longitude: -104.6588
-postcode: "S0C"
+postcode: S0C
 city: Pangman
-street: "Mergens Street"
-housenumber: 101
+street: Mergens Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

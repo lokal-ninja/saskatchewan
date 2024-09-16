@@ -1,11 +1,11 @@
 id: 1104772016
-type: way
+type: node
 latitude: 50.8334
 longitude: -108.03866
-postcode: "S0L 1T0"
+postcode: S0L 1T0
 city: Kyle
-street: "Centre Street"
-housenumber: 113
+street: Centre Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

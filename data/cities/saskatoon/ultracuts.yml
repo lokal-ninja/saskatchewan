@@ -2,10 +2,10 @@ id: 2747791151
 type: node
 latitude: 52.12893
 longitude: -106.68076
-postcode: "S7M 0R6"
+postcode: S7M 0R6
 city: Saskatoon
-street: "22nd Street West"
-housenumber: 727
-phone: "+1-306-652-9592"
+street: 22nd Street West
+housenumber: "727"
+phone: +1-306-652-9592
 opening_hours: ""
-website: "https://ultracuts.ca/"
+website: https://ultracuts.ca/

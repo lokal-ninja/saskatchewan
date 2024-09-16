@@ -1,11 +1,11 @@
 id: 1220375503
-type: way
+type: node
 latitude: 52.20015
 longitude: -106.66828
-postcode: "S7P 0E9"
+postcode: S7P 0E9
 city: Saskatoon
-street: "Motor Way"
-housenumber: 111
+street: Motor Way
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.saskatoonnorthhyundai.com/"
+website: https://www.saskatoonnorthhyundai.com/

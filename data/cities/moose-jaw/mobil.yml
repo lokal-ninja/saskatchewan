@@ -1,11 +1,11 @@
 id: 538043332
-type: way
+type: node
 latitude: 50.41337
 longitude: -105.53169
-postcode: "S6J 1L7"
+postcode: S6J 1L7
 city: Moose Jaw
-street: "Thatcher Drive East"
-housenumber: 30
-phone: "+1-306-693-7700"
+street: Thatcher Drive East
+housenumber: "30"
+phone: +1-306-693-7700
 opening_hours: ""
 website: ""

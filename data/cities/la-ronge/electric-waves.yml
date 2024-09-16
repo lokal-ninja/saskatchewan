@@ -1,11 +1,11 @@
 id: 316324440
-type: way
+type: node
 latitude: 55.09995
 longitude: -105.29805
-postcode: "S0J 1L0"
+postcode: S0J 1L0
 city: La Ronge
-street: "La Ronge Avenue"
-housenumber: 404
-phone: "+1-306-425-2393"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: La Ronge Avenue
+housenumber: "404"
+phone: +1-306-425-2393
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

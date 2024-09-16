@@ -1,11 +1,11 @@
 id: 831739019
-type: way
+type: node
 latitude: 52.12638
 longitude: -106.68498
 postcode: ""
 city: Saskatoon
-street: "20th Street West"
-housenumber: 1008
+street: 20th Street West
+housenumber: "1008"
 phone: ""
 opening_hours: ""
 website: ""

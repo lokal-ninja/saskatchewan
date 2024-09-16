@@ -1,11 +1,11 @@
 id: 534904953
-type: way
+type: node
 latitude: 53.10515
 longitude: -103.66047
-postcode: "S0E 0A0"
+postcode: S0E 0A0
 city: Arborfield
-street: "1 Avenue North"
-housenumber: 120
-phone: "+1-306-873-5111"
+street: 1 Avenue North
+housenumber: "120"
+phone: +1-306-873-5111
 opening_hours: ""
 website: ""

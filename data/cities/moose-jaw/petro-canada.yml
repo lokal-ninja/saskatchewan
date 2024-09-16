@@ -1,11 +1,11 @@
 id: 538043336
-type: way
+type: node
 latitude: 50.42704
 longitude: -105.54753
-postcode: "S6H 4P9"
+postcode: S6H 4P9
 city: Moose Jaw
-street: "North Service Road"
-housenumber: 450
-phone: "+1-306-692-7922"
+street: North Service Road
+housenumber: "450"
+phone: +1-306-692-7922
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313633624
-type: way
+type: node
 latitude: 52.11439
 longitude: -106.64614
-postcode: "S7H0R9"
+postcode: S7H0R9
 city: Saskatoon
 street: "8"
-housenumber: 1002
-phone: "+1 306-954-0315"
+housenumber: "1002"
+phone: +1 306-954-0315
 opening_hours: ""
-website: "https://prairiecanna.ca/"
+website: https://prairiecanna.ca/

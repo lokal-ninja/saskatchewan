@@ -1,11 +1,11 @@
 id: 328711480
-type: way
+type: node
 latitude: 52.2017
 longitude: -105.12221
-postcode: "S0K 2A0"
+postcode: S0K 2A0
 city: Humboldt
-street: "Main Street"
-housenumber: 740
-phone: "+1-306-682-5711"
+street: Main Street
+housenumber: "740"
+phone: +1-306-682-5711
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/29901"
+website: https://stores.7-eleven.ca/store/29901

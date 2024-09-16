@@ -1,11 +1,11 @@
 id: 536400115
-type: way
+type: node
 latitude: 51.15408
 longitude: -108.7485
-postcode: "S0L 1A0"
+postcode: S0L 1A0
 city: Eston
-street: "Railway Avenue East"
-housenumber: 238
-phone: "+1 306 962 3647"
+street: Railway Avenue East
+housenumber: "238"
+phone: +1 306 962 3647
 opening_hours: ""
 website: ""

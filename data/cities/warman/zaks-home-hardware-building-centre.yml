@@ -1,11 +1,11 @@
 id: 1118940392
-type: way
+type: node
 latitude: 52.33982
 longitude: -106.57718
-postcode: "S0K 4S1"
+postcode: S0K 4S1
 city: Warman
-street: "Centennial Boulevard"
-housenumber: 930
+street: Centennial Boulevard
+housenumber: "930"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://www.homehardware.ca/en/store/52201"
+opening_hours: Mo-Fr 07:30-19:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://www.homehardware.ca/en/store/52201

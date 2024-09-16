@@ -1,11 +1,11 @@
 id: 656318565
-type: way
+type: node
 latitude: 50.76939
 longitude: -103.78604
-postcode: "S0G 1S0"
+postcode: S0G 1S0
 city: Fort Qu'Appelle
-street: "Broadway Street East"
-housenumber: 703
-phone: "+1 306-331-7123"
+street: Broadway Street East
+housenumber: "703"
+phone: +1 306-331-7123
 opening_hours: ""
 website: ""

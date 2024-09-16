@@ -1,11 +1,11 @@
 id: 316324447
-type: way
+type: node
 latitude: 55.09968
 longitude: -105.30233
-postcode: "S0J 1L0"
+postcode: S0J 1L0
 city: La Ronge
-street: "Brown Street"
-housenumber: 107
-phone: "+1-306-425-4000"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.homehardware.ca/en/store/56603"
+street: Brown Street
+housenumber: "107"
+phone: +1-306-425-4000
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.homehardware.ca/en/store/56603

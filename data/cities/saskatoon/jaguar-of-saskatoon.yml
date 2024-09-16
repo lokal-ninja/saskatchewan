@@ -2,10 +2,10 @@ id: 4280202045
 type: node
 latitude: 52.08872
 longitude: -106.65048
-postcode: "S7J 5L6"
+postcode: S7J 5L6
 city: Saskatoon
-street: "Brand Place"
-housenumber: 419
-phone: "+1-306-242-3609"
+street: Brand Place
+housenumber: "419"
+phone: +1-306-242-3609
 opening_hours: ""
-website: "https://www.jaguarsaskatoon.com/"
+website: https://www.jaguarsaskatoon.com/

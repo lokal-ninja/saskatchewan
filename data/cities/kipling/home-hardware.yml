@@ -1,11 +1,11 @@
 id: 556811321
-type: way
+type: node
 latitude: 50.10265
 longitude: -102.63149
-postcode: "S0G 2S0"
+postcode: S0G 2S0
 city: Kipling
-street: "Main Street"
-housenumber: 520
+street: Main Street
+housenumber: "520"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/52104"
+website: https://www.homehardware.ca/en/store/52104

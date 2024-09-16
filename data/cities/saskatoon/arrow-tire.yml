@@ -1,11 +1,11 @@
 id: 1216904996
-type: way
+type: node
 latitude: 52.16426
 longitude: -106.65575
-postcode: "S7K 0X1"
+postcode: S7K 0X1
 city: Saskatoon
-street: "46 Street East"
-housenumber: 801
+street: 46 Street East
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://www.arrowtire.ca"
+website: https://www.arrowtire.ca

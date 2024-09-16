@@ -4,8 +4,8 @@ latitude: 50.44409
 longitude: -104.53214
 postcode: ""
 city: Regina
-street: "Prince of Wales Drive"
-housenumber: 2125
-phone: "+1-306-546-0100"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://stores.bestbuy.ca/en-ca/sk/regina/2125-prince-of-wales-dr"
+street: Prince of Wales Drive
+housenumber: "2125"
+phone: +1-306-546-0100
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://stores.bestbuy.ca/en-ca/sk/regina/2125-prince-of-wales-dr

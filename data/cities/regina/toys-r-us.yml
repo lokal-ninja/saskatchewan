@@ -1,11 +1,11 @@
 id: 251530459
-type: way
+type: node
 latitude: 50.46706
 longitude: -104.61857
 postcode: ""
 city: Regina
-street: "Albert Street"
-housenumber: 730
+street: Albert Street
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

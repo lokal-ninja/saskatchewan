@@ -1,11 +1,11 @@
 id: 267520365
-type: way
+type: node
 latitude: 52.12521
 longitude: -106.66888
-postcode: "S7M 5T4"
+postcode: S7M 5T4
 city: Saskatoon
-street: "Idylwyld Drive South"
-housenumber: 300
-phone: "+1-306-653-8697"
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://toysrus.ca/"
+street: Idylwyld Drive South
+housenumber: "300"
+phone: +1-306-653-8697
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://toysrus.ca/

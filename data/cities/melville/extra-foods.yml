@@ -1,11 +1,11 @@
 id: 164100668
-type: way
+type: node
 latitude: 50.93978
 longitude: -102.80307
-postcode: "S0A 2P0"
+postcode: S0A 2P0
 city: Melville
-street: "Halifax Street West"
-housenumber: 100
+street: Halifax Street West
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

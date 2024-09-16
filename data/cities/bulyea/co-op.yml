@@ -1,11 +1,11 @@
 id: 262942172
-type: way
+type: node
 latitude: 50.98671
 longitude: -104.8643
-postcode: "S0G 0L0"
+postcode: S0G 0L0
 city: Bulyea
-street: "Ashley Street"
-housenumber: 111
-phone: "+1-306-725-4931"
+street: Ashley Street
+housenumber: "111"
+phone: +1-306-725-4931
 opening_hours: ""
 website: ""

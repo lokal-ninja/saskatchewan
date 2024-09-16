@@ -1,11 +1,11 @@
 id: 432827089
-type: way
+type: node
 latitude: 53.84026
 longitude: -107.03685
-postcode: "S0J"
+postcode: S0J
 city: Big River
-street: "Hoohn Street"
-housenumber: 400
+street: Hoohn Street
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00, Sa-Su 07:30-22:00"
+opening_hours: Mo-Fr 07:00-22:00, Sa-Su 07:30-22:00
 website: ""

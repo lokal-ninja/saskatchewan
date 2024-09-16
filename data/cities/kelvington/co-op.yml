@@ -1,11 +1,11 @@
 id: 535654578
-type: way
+type: node
 latitude: 52.16422
 longitude: -103.52539
-postcode: "S0A 1W0"
+postcode: S0A 1W0
 city: Kelvington
-street: "1 Avenue"
-housenumber: 204
+street: 1 Avenue
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

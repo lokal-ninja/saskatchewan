@@ -1,11 +1,11 @@
 id: 159052863
-type: way
+type: node
 latitude: 49.14661
 longitude: -102.97895
-postcode: "S4A 2B4"
+postcode: S4A 2B4
 city: Estevan
-street: "King Street"
-housenumber: 420
+street: King Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

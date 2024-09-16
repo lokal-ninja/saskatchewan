@@ -1,11 +1,11 @@
 id: 23452586
-type: way
+type: node
 latitude: 52.12609
 longitude: -106.66718
-postcode: "S7K 1J9"
+postcode: S7K 1J9
 city: Saskatoon
-street: "1st Avenue South"
-housenumber: 201
-phone: "+1-306-653-8844"
+street: 1st Avenue South
+housenumber: "201"
+phone: +1-306-653-8844
 opening_hours: ""
-website: "https://www.midtownplaza.ca/"
+website: https://www.midtownplaza.ca/

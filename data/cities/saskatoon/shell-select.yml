@@ -1,11 +1,11 @@
 id: 1178598572
-type: way
+type: node
 latitude: 52.11427
 longitude: -106.70895
-postcode: "S7M 1J6"
+postcode: S7M 1J6
 city: Saskatoon
-street: "Dawes Avenue"
-housenumber: 2505
+street: Dawes Avenue
+housenumber: "2505"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 269423067
-type: way
+type: node
 latitude: 52.12896
 longitude: -106.67237
-postcode: "S7M 1M2"
+postcode: S7M 1M2
 city: Saskatoon
-street: "Avenue B South"
-housenumber: 105
+street: Avenue B South
+housenumber: "105"
 phone: "+13062447813"
 opening_hours: ""
-website: "https://www.outtabounds.ca"
+website: https://www.outtabounds.ca

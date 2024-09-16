@@ -1,11 +1,11 @@
 id: 432763816
-type: way
+type: node
 latitude: 49.17685
 longitude: -101.44752
 postcode: ""
 city: Gainsborough
-street: "Railway Avenue"
-housenumber: 319
+street: Railway Avenue
+housenumber: "319"
 phone: ""
 opening_hours: ""
 website: ""

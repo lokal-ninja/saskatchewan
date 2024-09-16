@@ -1,11 +1,11 @@
 id: 534595592
-type: way
+type: node
 latitude: 54.13291
 longitude: -108.44519
-postcode: "S9X 1N7"
+postcode: S9X 1N7
 city: Meadow Lake
-street: "1st Avenue West"
-housenumber: 618
-phone: "+1-306-236-3564"
+street: 1st Avenue West
+housenumber: "618"
+phone: +1-306-236-3564
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/32315"
+website: https://stores.7-eleven.ca/store/32315

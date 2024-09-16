@@ -1,11 +1,11 @@
 id: 267277894
-type: way
+type: node
 latitude: 52.14366
 longitude: -106.72652
-postcode: "S7L 4P5"
+postcode: S7L 4P5
 city: Saskatoon
-street: "33rd Street West"
-housenumber: 3303
-phone: "+1-306-975-6640"
+street: 33rd Street West
+housenumber: "3303"
+phone: +1-306-975-6640
 opening_hours: ""
-website: "https://slurpee.ca/"
+website: https://slurpee.ca/

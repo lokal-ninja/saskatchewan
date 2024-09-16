@@ -1,11 +1,11 @@
 id: 115376831
-type: way
+type: node
 latitude: 50.49877
 longitude: -104.64413
-postcode: "S4X 4N9"
+postcode: S4X 4N9
 city: Regina
-street: "Rochdale Boulevard"
-housenumber: 4450
-phone: "+1 306-546-6618"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1585"
+street: Rochdale Boulevard
+housenumber: "4450"
+phone: +1 306-546-6618
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1585

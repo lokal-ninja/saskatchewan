@@ -1,11 +1,11 @@
 id: 612794600
-type: way
+type: node
 latitude: 52.12864
 longitude: -106.76293
-postcode: "S7M 1L2"
+postcode: S7M 1L2
 city: Saskatoon
-street: "Betts Avenue"
-housenumber: 125
+street: Betts Avenue
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

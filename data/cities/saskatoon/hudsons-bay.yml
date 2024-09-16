@@ -1,11 +1,11 @@
 id: 428057548
-type: way
+type: node
 latitude: 52.12845
 longitude: -106.66723
-postcode: "S7K 3M1"
+postcode: S7K 3M1
 city: Saskatoon
-street: "1st Avenue South"
-housenumber: 201
-phone: "+1-306-242-7611"
+street: 1st Avenue South
+housenumber: "201"
+phone: +1-306-242-7611
 opening_hours: ""
 website: ""

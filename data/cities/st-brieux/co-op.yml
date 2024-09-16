@@ -1,11 +1,11 @@
 id: 535586469
-type: way
+type: node
 latitude: 52.63924
 longitude: -104.88372
-postcode: "S0K 3V0"
+postcode: S0K 3V0
 city: St Brieux
-street: "Highway 368 North"
-housenumber: 300
-phone: "+1-306-275-2060"
+street: Highway 368 North
+housenumber: "300"
+phone: +1-306-275-2060
 opening_hours: ""
 website: ""

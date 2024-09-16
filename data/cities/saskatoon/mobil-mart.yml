@@ -1,11 +1,11 @@
 id: 1075423244
-type: way
+type: node
 latitude: 52.13251
 longitude: -106.72723
-postcode: "S7L 5C3"
+postcode: S7L 5C3
 city: Saskatoon
-street: "Confederation Drive"
-housenumber: 411
+street: Confederation Drive
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

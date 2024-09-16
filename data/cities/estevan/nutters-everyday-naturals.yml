@@ -2,10 +2,10 @@ id: 9910441702
 type: node
 latitude: 49.14528
 longitude: -102.97905
-postcode: "S4A 2B4"
+postcode: S4A 2B4
 city: Estevan
-street: "King Street"
-housenumber: 400
+street: King Street
+housenumber: "400"
 phone: "+13066349577"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://nutters.com/find-a-store/estevan/"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://nutters.com/find-a-store/estevan/

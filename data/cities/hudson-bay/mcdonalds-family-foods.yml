@@ -1,11 +1,11 @@
 id: 586981865
-type: way
+type: node
 latitude: 52.8587
 longitude: -102.38948
 postcode: ""
 city: Hudson Bay
-street: "Churchill Street"
-housenumber: 316
+street: Churchill Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

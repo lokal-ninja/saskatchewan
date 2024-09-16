@@ -1,11 +1,11 @@
 id: 536707794
-type: way
+type: node
 latitude: 50.0491
 longitude: -102.29683
-postcode: "S0G 2X0"
+postcode: S0G 2X0
 city: Langbank
-street: "Main Street"
-housenumber: 231
-phone: "+1-306-538-2125"
+street: Main Street
+housenumber: "231"
+phone: +1-306-538-2125
 opening_hours: ""
 website: ""

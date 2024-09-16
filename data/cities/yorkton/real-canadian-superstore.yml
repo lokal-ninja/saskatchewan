@@ -1,11 +1,11 @@
 id: 108383120
-type: way
+type: node
 latitude: 51.20763
 longitude: -102.45256
-postcode: "S3N 3K4"
+postcode: S3N 3K4
 city: Yorkton
-street: "Broadway Street E"
-housenumber: 206
-phone: "+1 306-786-4000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1582"
+street: Broadway Street E
+housenumber: "206"
+phone: +1 306-786-4000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1582

@@ -1,11 +1,11 @@
 id: 428567883
-type: way
+type: node
 latitude: 52.08525
 longitude: -106.65343
-postcode: "S7J 5L2"
+postcode: S7J 5L2
 city: Saskatoon
-street: "Melville Street"
-housenumber: 715
-phone: "+1-306-242-6024"
+street: Melville Street
+housenumber: "715"
+phone: +1-306-242-6024
 opening_hours: ""
-website: "http://mercedesbenzsaskatoon.com"
+website: http://mercedesbenzsaskatoon.com

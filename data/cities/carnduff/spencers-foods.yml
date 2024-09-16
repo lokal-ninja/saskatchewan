@@ -1,11 +1,11 @@
 id: 434860283
-type: way
+type: node
 latitude: 49.17446
 longitude: -101.79584
 postcode: ""
 city: Carnduff
-street: "Broadway Street"
-housenumber: 118
+street: Broadway Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

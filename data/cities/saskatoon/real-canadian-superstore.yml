@@ -1,11 +1,11 @@
 id: 56006875
-type: way
+type: node
 latitude: 52.11622
 longitude: -106.61484
-postcode: "S7H 0V4"
+postcode: S7H 0V4
 city: Saskatoon
-street: "8th Street East"
-housenumber: 2901
-phone: "+1 306-956-1605"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1535"
+street: 8th Street East
+housenumber: "2901"
+phone: +1 306-956-1605
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1535

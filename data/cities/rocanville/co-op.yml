@@ -1,11 +1,11 @@
 id: 535335880
-type: way
+type: node
 latitude: 50.38367
 longitude: -101.69939
-postcode: "S0A 3L0"
+postcode: S0A 3L0
 city: Rocanville
-street: "Ellice Street"
-housenumber: 202
-phone: "+1-306-645-2160"
+street: Ellice Street
+housenumber: "202"
+phone: +1-306-645-2160
 opening_hours: ""
 website: ""

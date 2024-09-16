@@ -1,11 +1,11 @@
 id: 537004812
-type: way
+type: node
 latitude: 53.19828
 longitude: -105.73994
-postcode: "S6V 1G3"
+postcode: S6V 1G3
 city: Prince Albert
-street: "15 Street East"
-housenumber: 591
-phone: "+1 306-953-8100"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1581"
+street: 15 Street East
+housenumber: "591"
+phone: +1 306-953-8100
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1581

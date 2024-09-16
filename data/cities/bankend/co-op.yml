@@ -1,11 +1,11 @@
 id: 536943457
-type: way
+type: node
 latitude: 51.50849
 longitude: -103.84612
-postcode: "S0A 0G0"
+postcode: S0A 0G0
 city: Bankend
-street: "Main Street"
-housenumber: 100
-phone: "+1-306-576-2302"
+street: Main Street
+housenumber: "100"
+phone: +1-306-576-2302
 opening_hours: ""
 website: ""

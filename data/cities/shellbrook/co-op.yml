@@ -1,11 +1,11 @@
 id: 536747785
-type: way
+type: node
 latitude: 53.21812
 longitude: -106.39262
-postcode: "S0J 2E0"
+postcode: S0J 2E0
 city: Shellbrook
-street: "Railway Avenue West"
-housenumber: 203
-phone: "+1-306-747-2122"
+street: Railway Avenue West
+housenumber: "203"
+phone: +1-306-747-2122
 opening_hours: ""
 website: ""

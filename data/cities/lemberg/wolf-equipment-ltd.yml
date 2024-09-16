@@ -1,11 +1,11 @@
 id: 536728489
-type: way
+type: node
 latitude: 50.72784
 longitude: -103.20199
-postcode: "S0A 2B0"
+postcode: S0A 2B0
 city: Lemberg
-street: "Chickney Avenue"
-housenumber: 504
-phone: "+1-306-335-2300"
+street: Chickney Avenue
+housenumber: "504"
+phone: +1-306-335-2300
 opening_hours: ""
 website: ""

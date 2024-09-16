@@ -1,11 +1,11 @@
 id: 535621625
-type: way
+type: node
 latitude: 49.93687
 longitude: -105.96482
-postcode: "S0H 3G0"
+postcode: S0H 3G0
 city: Mossbank
-street: "Main Street"
-housenumber: 108
-phone: "+1-306-354-2350"
+street: Main Street
+housenumber: "108"
+phone: +1-306-354-2350
 opening_hours: ""
 website: ""

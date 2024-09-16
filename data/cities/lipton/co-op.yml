@@ -1,11 +1,11 @@
 id: 743440437
-type: way
+type: node
 latitude: 50.90257
 longitude: -103.84935
-postcode: "S0G3B0"
+postcode: S0G3B0
 city: Lipton
-street: "Railway Avenue"
-housenumber: 1017
-phone: "+1 306-336-2333"
+street: Railway Avenue
+housenumber: "1017"
+phone: +1 306-336-2333
 opening_hours: ""
 website: ""

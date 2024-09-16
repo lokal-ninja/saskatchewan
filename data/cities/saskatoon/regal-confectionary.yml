@@ -1,11 +1,11 @@
 id: 730878140
-type: way
+type: node
 latitude: 52.11664
 longitude: -106.66281
-postcode: "S7N 0Z6"
+postcode: S7N 0Z6
 city: Saskatoon
-street: "Victoria Avenue"
-housenumber: 902
+street: Victoria Avenue
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

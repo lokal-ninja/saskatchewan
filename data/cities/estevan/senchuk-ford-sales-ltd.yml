@@ -1,11 +1,11 @@
 id: 627272406
-type: way
+type: node
 latitude: 49.14927
 longitude: -102.99285
-postcode: "S4A 1J6"
+postcode: S4A 1J6
 city: Estevan
-street: "Souris Avenue"
-housenumber: 118
-phone: "+1306-634-3696"
+street: Souris Avenue
+housenumber: "118"
+phone: +1306-634-3696
 opening_hours: ""
-website: "https://www.senchuk.com/"
+website: https://www.senchuk.com/

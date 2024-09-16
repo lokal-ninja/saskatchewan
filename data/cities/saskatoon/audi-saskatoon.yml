@@ -1,11 +1,11 @@
 id: 744147786
-type: way
+type: node
 latitude: 52.08556
 longitude: -106.65212
-postcode: "S7J 5L2"
+postcode: S7J 5L2
 city: Saskatoon
-street: "Melville Street"
-housenumber: 803
-phone: "+1-306-986-2834"
+street: Melville Street
+housenumber: "803"
+phone: +1-306-986-2834
 opening_hours: ""
-website: "https://audisaskatoon.com"
+website: https://audisaskatoon.com

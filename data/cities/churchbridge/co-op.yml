@@ -1,11 +1,11 @@
 id: 535337171
-type: way
+type: node
 latitude: 50.89748
 longitude: -101.89472
-postcode: "S0A 0M0"
+postcode: S0A 0M0
 city: Churchbridge
-street: "Vincent Avenue West"
-housenumber: 111
+street: Vincent Avenue West
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

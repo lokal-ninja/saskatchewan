@@ -1,11 +1,11 @@
 id: 536729227
-type: way
+type: node
 latitude: 50.74519
 longitude: -103.41901
-postcode: "S0A 0A0"
+postcode: S0A 0A0
 city: Abernethy
-street: "Main Street"
-housenumber: 110
-phone: "+1-306-333-2122"
+street: Main Street
+housenumber: "110"
+phone: +1-306-333-2122
 opening_hours: ""
 website: ""

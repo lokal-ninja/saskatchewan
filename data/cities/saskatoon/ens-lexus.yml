@@ -1,11 +1,11 @@
 id: 428567860
-type: way
+type: node
 latitude: 52.08821
 longitude: -106.6558
-postcode: "S7J 5L3"
+postcode: S7J 5L3
 city: Saskatoon
-street: "Brand Court"
-housenumber: 631
-phone: "+1-306-653-6777"
+street: Brand Court
+housenumber: "631"
+phone: +1-306-653-6777
 opening_hours: ""
-website: "https://www.enslexus.ca/"
+website: https://www.enslexus.ca/

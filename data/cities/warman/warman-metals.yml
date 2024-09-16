@@ -1,11 +1,11 @@
 id: 1289665375
-type: way
+type: node
 latitude: 52.31729
 longitude: -106.5976
-postcode: "S0K 4S0"
+postcode: S0K 4S0
 city: Warman
-street: "Railway Street West"
-housenumber: 808
-phone: "+1 306 934 5100"
+street: Railway Street West
+housenumber: "808"
+phone: +1 306 934 5100
 opening_hours: ""
-website: "https://warmanmetals.com"
+website: https://warmanmetals.com

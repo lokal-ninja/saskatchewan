@@ -1,11 +1,11 @@
 id: 534882960
-type: way
+type: node
 latitude: 52.85641
 longitude: -102.39511
-postcode: "S0E 0Y0"
+postcode: S0E 0Y0
 city: Hudson Bay
-street: "4 Avenue"
-housenumber: 410
-phone: "+1-306-865-2288"
+street: 4 Avenue
+housenumber: "410"
+phone: +1-306-865-2288
 opening_hours: ""
 website: ""

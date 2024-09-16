@@ -1,11 +1,11 @@
 id: 552425551
-type: way
+type: node
 latitude: 52.11802
 longitude: -106.65736
-postcode: "S7N 1B4"
+postcode: S7N 1B4
 city: Saskatoon
-street: "Broadway Avenue"
-housenumber: 732
-phone: "+1 306 652 8008"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:30; Su 12:00-18:00; PH 12:00-18:00"
-website: "https://www.bulkcheese.ca/"
+street: Broadway Avenue
+housenumber: "732"
+phone: +1 306 652 8008
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:30; Su 12:00-18:00; PH 12:00-18:00
+website: https://www.bulkcheese.ca/

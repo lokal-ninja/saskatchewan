@@ -1,11 +1,11 @@
 id: 1235009120
-type: way
+type: node
 latitude: 50.76947
 longitude: -103.79378
-postcode: "S0G 1S0"
+postcode: S0G 1S0
 city: Fort Qu'Appelle
-street: "Broadway Street East"
-housenumber: 161
-phone: "1-306-332-5344"
+street: Broadway Street East
+housenumber: "161"
+phone: 1-306-332-5344
 opening_hours: ""
 website: ""

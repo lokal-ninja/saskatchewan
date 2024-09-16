@@ -1,11 +1,11 @@
 id: 538064909
-type: way
+type: node
 latitude: 53.27845
 longitude: -109.9854
 postcode: ""
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 4210
-phone: "+1-306-825-6222"
+street: Ray Nelson Drive
+housenumber: "4210"
+phone: +1-306-825-6222
 opening_hours: ""
-website: "http://www.fasgas.ca/"
+website: http://www.fasgas.ca/

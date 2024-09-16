@@ -2,10 +2,11 @@ id: 5077041931
 type: node
 latitude: 52.14321
 longitude: -106.65783
-postcode: "S7K 4Z3"
+postcode: S7K 4Z3
 city: Saskatoon
-street: "3rd Avenue North"
-housenumber: 102
-phone: "+1-306-653-5535"
-opening_hours: "Mo-Tu 10:00-18:00, We 10:00-20:00, Th 10:00-21:00, Fr-Sa 10:00-18:00, Su 12:00-17:00"
-website: "https://www.backsideboardshop.com/"
+street: 3rd Avenue North
+housenumber: "102"
+phone: +1-306-653-5535
+opening_hours: Mo-Tu 10:00-18:00, We 10:00-20:00, Th 10:00-21:00, Fr-Sa 10:00-18:00,
+    Su 12:00-17:00
+website: https://www.backsideboardshop.com/

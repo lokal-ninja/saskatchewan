@@ -1,11 +1,11 @@
 id: 183210461
-type: way
+type: node
 latitude: 52.79866
 longitude: -108.29981
-postcode: "S9A 3B4"
+postcode: S9A 3B4
 city: North Battleford
-street: "99th Street"
-housenumber: 2702
+street: 99th Street
+housenumber: "2702"
 phone: ""
 opening_hours: ""
 website: ""

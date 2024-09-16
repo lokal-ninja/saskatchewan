@@ -1,11 +1,11 @@
 id: 316324462
-type: way
+type: node
 latitude: 55.0999
 longitude: -105.29885
-postcode: "S0J 1L0"
+postcode: S0J 1L0
 city: La Ronge
-street: "La Ronge Avenue"
-housenumber: 312
-phone: "+1-306-425-2073"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
-website: "https://www.rona.ca/"
+street: La Ronge Avenue
+housenumber: "312"
+phone: +1-306-425-2073
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00
+website: https://www.rona.ca/

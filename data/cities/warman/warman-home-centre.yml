@@ -1,11 +1,11 @@
 id: 310373483
-type: way
+type: node
 latitude: 52.31526
 longitude: -106.59107
-postcode: "S0K 4S0"
+postcode: S0K 4S0
 city: Warman
-street: "Railway Street West"
-housenumber: 601
-phone: "+1 306 933 4990"
-opening_hours: "Oct-Feb Mo-Fr 08:00-17:00; Mar-Sep Mo-Fr 07:00-18:00; Sa 08:00-17:00"
-website: "https://www.warmanhomecentre.com/"
+street: Railway Street West
+housenumber: "601"
+phone: +1 306 933 4990
+opening_hours: Oct-Feb Mo-Fr 08:00-17:00; Mar-Sep Mo-Fr 07:00-18:00; Sa 08:00-17:00
+website: https://www.warmanhomecentre.com/

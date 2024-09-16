@@ -1,11 +1,11 @@
 id: 1118940382
-type: way
+type: node
 latitude: 52.334
 longitude: -106.57945
-postcode: "S0K 4S1"
+postcode: S0K 4S1
 city: Warman
-street: "Centennial Boulevard"
-housenumber: 910
+street: Centennial Boulevard
+housenumber: "910"
 phone: "+13066653332"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00"
-website: "https://www.gcoc.ca/locations/saskatchewan/warman/910-centennial-blvd-1/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00
+website: https://www.gcoc.ca/locations/saskatchewan/warman/910-centennial-blvd-1/

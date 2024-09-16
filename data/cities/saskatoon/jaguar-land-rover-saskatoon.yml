@@ -1,11 +1,11 @@
 id: 744153923
-type: way
+type: node
 latitude: 52.08426
 longitude: -106.65177
-postcode: "S7J 4M2"
+postcode: S7J 4M2
 city: Saskatoon
-street: "Melville Street"
-housenumber: 818
-phone: "+1-306-242-3609"
-opening_hours: "Mo-We 08:30-18:00; Th 08:30-21:00; Fr-Sa 08:30-18:00; PH off"
-website: "https://www.jaguarsaskatoon.com;https://www.landroversaskatoon.com"
+street: Melville Street
+housenumber: "818"
+phone: +1-306-242-3609
+opening_hours: Mo-We 08:30-18:00; Th 08:30-21:00; Fr-Sa 08:30-18:00; PH off
+website: https://www.jaguarsaskatoon.com;https://www.landroversaskatoon.com

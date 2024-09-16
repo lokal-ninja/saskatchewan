@@ -1,11 +1,11 @@
 id: 535575203
-type: way
+type: node
 latitude: 49.68623
 longitude: -107.13757
-postcode: "S0N 1C0"
+postcode: S0N 1C0
 city: Hazenmore
-street: "Main Street"
-housenumber: 216
+street: Main Street
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 111865551
-type: way
+type: node
 latitude: 51.21233
 longitude: -102.44182
 postcode: ""
 city: Yorkton
-street: "Broadway Street East"
-housenumber: 277
+street: Broadway Street East
+housenumber: "277"
 phone: ""
 opening_hours: ""
 website: ""

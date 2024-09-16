@@ -1,11 +1,11 @@
 id: 434892972
-type: way
+type: node
 latitude: 49.17515
 longitude: -101.79331
 postcode: ""
 city: Carnduff
-street: "Railway Avenue"
-housenumber: 211
-phone: "+1-306-482-3323"
-opening_hours: "Mo-Sa 08:00-17:00"
+street: Railway Avenue
+housenumber: "211"
+phone: +1-306-482-3323
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

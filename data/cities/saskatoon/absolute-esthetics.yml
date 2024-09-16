@@ -2,10 +2,11 @@ id: 5046985589
 type: node
 latitude: 52.14272
 longitude: -106.65586
-postcode: "S7K 0R1"
+postcode: S7K 0R1
 city: Saskatoon
-street: "Duchess Street"
+street: Duchess Street
 housenumber: M2-410
 phone: ""
-opening_hours: "Mo 10:30-17:30; Tu-We 09:00-20:00; Th 09:00-20:30; Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.facebook.com/pg/absoluteesthetics/about/?ref=page_internal"
+opening_hours: Mo 10:30-17:30; Tu-We 09:00-20:00; Th 09:00-20:30; Fr 09:00-18:00;
+    Sa 09:00-14:00
+website: https://www.facebook.com/pg/absoluteesthetics/about/?ref=page_internal

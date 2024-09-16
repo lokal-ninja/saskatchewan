@@ -2,10 +2,10 @@ id: 6233281368
 type: node
 latitude: 52.15843
 longitude: -106.65442
-postcode: "S7K 3T8"
+postcode: S7K 3T8
 city: Saskatoon
-street: "Circle Drive E"
-housenumber: 806
+street: Circle Drive E
+housenumber: "806"
 phone: ""
 opening_hours: ""
-website: "https://www.drivenation.ca/"
+website: https://www.drivenation.ca/

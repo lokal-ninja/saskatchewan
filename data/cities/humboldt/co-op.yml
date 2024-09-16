@@ -1,11 +1,11 @@
 id: 557537401
-type: way
+type: node
 latitude: 52.20408
 longitude: -105.15372
 postcode: ""
 city: Humboldt
-street: "Westwood Drive"
-housenumber: 2430
+street: Westwood Drive
+housenumber: "2430"
 phone: ""
 opening_hours: ""
 website: ""

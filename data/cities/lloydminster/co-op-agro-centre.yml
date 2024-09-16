@@ -1,11 +1,11 @@
 id: 617728262
-type: way
+type: node
 latitude: 53.28487
 longitude: -109.9933
-postcode: "S9V 2B3"
+postcode: S9V 2B3
 city: Lloydminster
-street: "52 Street"
-housenumber: 4512
-phone: "+1-306-825-8180"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "http://www.lloydminstercoop.com"
+street: 52 Street
+housenumber: "4512"
+phone: +1-306-825-8180
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: http://www.lloydminstercoop.com

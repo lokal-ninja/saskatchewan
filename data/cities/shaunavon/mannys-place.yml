@@ -1,11 +1,11 @@
 id: 535319650
-type: way
+type: node
 latitude: 49.64314
 longitude: -108.41891
-postcode: "S0N 2M0"
+postcode: S0N 2M0
 city: Shaunavon
-street: "3 Avenue West"
-housenumber: 870
-phone: "+1-306-297-2437"
+street: 3 Avenue West
+housenumber: "870"
+phone: +1-306-297-2437
 opening_hours: ""
 website: ""

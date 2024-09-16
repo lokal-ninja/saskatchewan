@@ -1,11 +1,11 @@
 id: 267280860
-type: way
+type: node
 latitude: 52.14455
 longitude: -106.67416
-postcode: "S7L 0T2"
+postcode: S7L 0T2
 city: Saskatoon
-street: "33rd Street W"
-housenumber: 302
-phone: "+1-306-244-2250"
+street: 33rd Street W
+housenumber: "302"
+phone: +1-306-244-2250
 opening_hours: ""
 website: ""

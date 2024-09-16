@@ -1,11 +1,11 @@
 id: 534921579
-type: way
+type: node
 latitude: 53.63058
 longitude: -107.55354
-postcode: "S0J 1N0"
+postcode: S0J 1N0
 city: Leoville
-street: "Main Street"
-housenumber: 102
+street: Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

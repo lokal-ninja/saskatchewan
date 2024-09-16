@@ -1,11 +1,11 @@
 id: 302781585
-type: way
+type: node
 latitude: 51.54828
 longitude: -107.99551
-postcode: "S0L 2V0"
+postcode: S0L 2V0
 city: Rosetown
-street: "Railway Avenue West"
-housenumber: 219
-phone: "+1-306-882-4535"
+street: Railway Avenue West
+housenumber: "219"
+phone: +1-306-882-4535
 opening_hours: ""
 website: ""

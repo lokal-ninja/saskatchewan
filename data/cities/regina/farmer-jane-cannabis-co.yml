@@ -1,11 +1,11 @@
 id: 1151635369
-type: way
+type: node
 latitude: 50.49583
 longitude: -104.63581
-postcode: "S4X 0P9"
+postcode: S4X 0P9
 city: Regina
-street: "Rochdale Boulevard"
-housenumber: 3881
-phone: "+1 306-559-7925"
-opening_hours: "Mo-Su 10:00-22:00"
+street: Rochdale Boulevard
+housenumber: "3881"
+phone: +1 306-559-7925
+opening_hours: Mo-Su 10:00-22:00
 website: ""

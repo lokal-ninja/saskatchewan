@@ -1,11 +1,11 @@
 id: 838932552
-type: way
+type: node
 latitude: 51.67335
 longitude: -105.46688
-postcode: "S0K 4T0"
+postcode: S0K 4T0
 city: Watrous
-street: "Main Street"
-housenumber: 216
+street: Main Street
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

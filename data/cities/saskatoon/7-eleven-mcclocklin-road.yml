@@ -1,11 +1,11 @@
 id: 1075414769
-type: way
+type: node
 latitude: 52.15786
 longitude: -106.7016
-postcode: "S7R 0M8"
+postcode: S7R 0M8
 city: Saskatoon
-street: "McClocklin Road"
-housenumber: 2132
+street: McClocklin Road
+housenumber: "2132"
 phone: ""
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/38272"
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/38272

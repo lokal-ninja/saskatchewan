@@ -1,11 +1,11 @@
 id: 428567861
-type: way
+type: node
 latitude: 52.08915
 longitude: -106.65642
-postcode: "S7J 5L3"
+postcode: S7J 5L3
 city: Saskatoon
-street: "Brand Court"
-housenumber: 627
-phone: "+1-306-653-5611"
+street: Brand Court
+housenumber: "627"
+phone: +1-306-653-5611
 opening_hours: ""
-website: "https://www.enstoyota.ca/"
+website: https://www.enstoyota.ca/

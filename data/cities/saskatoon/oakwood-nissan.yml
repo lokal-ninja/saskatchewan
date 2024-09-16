@@ -1,11 +1,11 @@
 id: 428567853
-type: way
+type: node
 latitude: 52.08755
 longitude: -106.65611
-postcode: "S7J 5L3"
+postcode: S7J 5L3
 city: Saskatoon
-street: "Brand Court"
-housenumber: 635
-phone: "+1-306-664-3333"
+street: Brand Court
+housenumber: "635"
+phone: +1-306-664-3333
 opening_hours: ""
-website: "https://www.oakwoodnissan.com/"
+website: https://www.oakwoodnissan.com/

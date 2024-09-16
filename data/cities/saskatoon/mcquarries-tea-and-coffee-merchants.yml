@@ -1,11 +1,11 @@
 id: 552425558
-type: way
+type: node
 latitude: 52.1185
 longitude: -106.65749
-postcode: "S7N 1B4"
+postcode: S7N 1B4
 city: Saskatoon
-street: "Broadway Avenue"
-housenumber: 708
-phone: "+1 306 242 6016"
-opening_hours: "Mo-Sa 09:00-17:30; PH off"
-website: "https://www.mcquarries.ca/"
+street: Broadway Avenue
+housenumber: "708"
+phone: +1 306 242 6016
+opening_hours: Mo-Sa 09:00-17:30; PH off
+website: https://www.mcquarries.ca/

@@ -1,11 +1,11 @@
 id: 207245030
-type: way
+type: node
 latitude: 49.13284
 longitude: -102.98992
-postcode: "S4A 2K5"
+postcode: S4A 2K5
 city: Estevan
-street: "SK-47 South"
-housenumber: 97
-phone: "+1-306-634-5689"
+street: SK-47 South
+housenumber: "97"
+phone: +1-306-634-5689
 opening_hours: ""
 website: ""

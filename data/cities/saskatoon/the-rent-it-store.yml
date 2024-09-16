@@ -1,11 +1,11 @@
 id: 1073405790
-type: way
+type: node
 latitude: 52.16154
 longitude: -106.65788
-postcode: "S7K 0W4"
+postcode: S7K 0W4
 city: Saskatoon
-street: "45th Street East"
-housenumber: 633
-phone: "+1 306 652 0101"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-16:00"
-website: "https://www.therentitstore.com"
+street: 45th Street East
+housenumber: "633"
+phone: +1 306 652 0101
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-16:00
+website: https://www.therentitstore.com

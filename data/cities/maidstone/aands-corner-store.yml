@@ -1,11 +1,11 @@
 id: 536460906
-type: way
+type: node
 latitude: 53.08572
 longitude: -109.29134
-postcode: "S0M 1M0"
+postcode: S0M 1M0
 city: Maidstone
-street: "Railway Avenue"
-housenumber: 106
-phone: "+1-306-893-4550"
+street: Railway Avenue
+housenumber: "106"
+phone: +1-306-893-4550
 opening_hours: ""
 website: ""

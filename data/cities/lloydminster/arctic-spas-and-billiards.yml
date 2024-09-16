@@ -1,11 +1,11 @@
 id: 628465578
-type: way
+type: node
 latitude: 53.2836
 longitude: -109.99727
-postcode: "S9V 1B8"
+postcode: S9V 1B8
 city: Lloydminster
-street: "50 Street"
-housenumber: 4630
-phone: "+1-306-825-6153"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-15:00; Su closed"
-website: "https://www.arctichottubslloydminster.ca/"
+street: 50 Street
+housenumber: "4630"
+phone: +1-306-825-6153
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-15:00; Su closed
+website: https://www.arctichottubslloydminster.ca/

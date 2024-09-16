@@ -1,11 +1,11 @@
 id: 207244751
-type: way
+type: node
 latitude: 49.14622
 longitude: -102.9917
-postcode: "s4a 2l9"
+postcode: s4a 2l9
 city: Estevan
-street: "13th Avenue"
-housenumber: 913
-phone: "+1-306-634-7111"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/27020"
+street: 13th Avenue
+housenumber: "913"
+phone: +1-306-634-7111
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/27020

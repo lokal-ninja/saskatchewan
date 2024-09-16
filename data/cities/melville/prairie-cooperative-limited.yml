@@ -1,11 +1,11 @@
 id: 161636553
-type: way
+type: node
 latitude: 50.93566
 longitude: -102.82058
-postcode: "S0A 2P0"
+postcode: S0A 2P0
 city: Melville
-street: "Bailey Drive"
-housenumber: 200
-phone: "+1-306-728-3992"
+street: Bailey Drive
+housenumber: "200"
+phone: +1-306-728-3992
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 744152030
-type: way
+type: node
 latitude: 52.08493
 longitude: -106.64918
-postcode: "S7J 5L2"
+postcode: S7J 5L2
 city: Saskatoon
-street: "Melville Street"
-housenumber: 827
-phone: "+1-306-242-2422"
-opening_hours: "Mo-We 08:00-18:00; Th 08:00-21:00; Fr-Sa 08:00-18:00; PH off"
-website: "https://www.saskatoonsouthhyundai.com"
+street: Melville Street
+housenumber: "827"
+phone: +1-306-242-2422
+opening_hours: Mo-We 08:00-18:00; Th 08:00-21:00; Fr-Sa 08:00-18:00; PH off
+website: https://www.saskatoonsouthhyundai.com

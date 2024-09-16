@@ -1,11 +1,11 @@
 id: 351162637
-type: way
+type: node
 latitude: 50.46118
 longitude: -104.6242
-postcode: "S4T 0L6"
+postcode: S4T 0L6
 city: Regina
-street: "5th Avenue"
-housenumber: 3001
+street: 5th Avenue
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

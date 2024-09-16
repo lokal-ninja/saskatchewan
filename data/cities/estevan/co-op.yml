@@ -1,11 +1,11 @@
 id: 207243070
-type: way
+type: node
 latitude: 49.13722
 longitude: -102.98739
-postcode: "S4A 0V9"
+postcode: S4A 0V9
 city: Estevan
-street: "4th Street"
-housenumber: 802
-phone: "+1-306-634-4320"
+street: 4th Street
+housenumber: "802"
+phone: +1-306-634-4320
 opening_hours: ""
 website: ""

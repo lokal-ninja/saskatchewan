@@ -1,11 +1,11 @@
 id: 537795070
-type: way
+type: node
 latitude: 50.41447
 longitude: -104.98378
-postcode: "S0G 3W0"
+postcode: S0G 3W0
 city: Pense
-street: "North Front Street"
-housenumber: 416
-phone: "+1-306-345-2240"
+street: North Front Street
+housenumber: "416"
+phone: +1-306-345-2240
 opening_hours: ""
 website: ""

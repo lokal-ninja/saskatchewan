@@ -1,11 +1,11 @@
 id: 161943650
-type: way
+type: node
 latitude: 53.1996
 longitude: -105.75511
 postcode: ""
 city: Prince Albert
-street: "Central Avenue"
-housenumber: 1403
+street: Central Avenue
+housenumber: "1403"
 phone: ""
 opening_hours: ""
-website: "https://www.gatewaymallpa.com/"
+website: https://www.gatewaymallpa.com/

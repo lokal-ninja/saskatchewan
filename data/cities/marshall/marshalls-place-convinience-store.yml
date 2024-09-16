@@ -1,11 +1,11 @@
 id: 1204316402
-type: way
+type: node
 latitude: 53.19243
 longitude: -109.78136
-postcode: "S0M 1R0"
+postcode: S0M 1R0
 city: Marshall
-street: "Railway Avenue"
-housenumber: 22
+street: Railway Avenue
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

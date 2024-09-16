@@ -1,11 +1,11 @@
 id: 538038246
-type: way
+type: node
 latitude: 50.40229
 longitude: -105.558
-postcode: "S6H 4K1"
+postcode: S6H 4K1
 city: Moose Jaw
-street: "9th Avenue NW"
-housenumber: 1230
-phone: "+1-306-694-4330"
+street: 9th Avenue NW
+housenumber: "1230"
+phone: +1-306-694-4330
 opening_hours: ""
 website: ""

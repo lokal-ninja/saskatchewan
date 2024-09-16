@@ -1,11 +1,11 @@
 id: 234848026
-type: way
+type: node
 latitude: 55.43829
 longitude: -107.89865
-postcode: "S0M"
+postcode: S0M
 city: Île-à-la-Crosse
-street: "Lajeunesse Avenue"
-housenumber: 
+street: Lajeunesse Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

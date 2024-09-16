@@ -1,11 +1,11 @@
 id: 536735391
-type: way
+type: node
 latitude: 50.71117
 longitude: -105.20697
-postcode: "S0G"
+postcode: S0G
 city: Bethune
-street: "Ford Street"
-housenumber: 607
+street: Ford Street
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1289665376
-type: way
+type: node
 latitude: 52.31713
 longitude: -106.59507
-postcode: "S0K 4S0"
+postcode: S0K 4S0
 city: Warman
-street: "Railway Street West"
-housenumber: 700
-phone: "+1 306 933 9911"
+street: Railway Street West
+housenumber: "700"
+phone: +1 306 933 9911
 opening_hours: ""
-website: "https://warmantruss.com/"
+website: https://warmantruss.com/

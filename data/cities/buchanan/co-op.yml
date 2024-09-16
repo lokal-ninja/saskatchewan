@@ -1,11 +1,11 @@
 id: 534903551
-type: way
+type: node
 latitude: 51.70341
 longitude: -102.75575
-postcode: "S0A 0J0"
+postcode: S0A 0J0
 city: Buchanan
-street: "Central Street"
-housenumber: 409
+street: Central Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

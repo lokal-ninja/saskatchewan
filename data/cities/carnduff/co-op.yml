@@ -1,11 +1,11 @@
 id: 434860277
-type: way
+type: node
 latitude: 49.17529
 longitude: -101.79595
 postcode: ""
 city: Carnduff
-street: "Broadway Street"
-housenumber: 106
-phone: "+1-306-482-3200"
-opening_hours: "Mo-Sa 08:30-17:30"
+street: Broadway Street
+housenumber: "106"
+phone: +1-306-482-3200
+opening_hours: Mo-Sa 08:30-17:30
 website: ""

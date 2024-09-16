@@ -1,11 +1,11 @@
 id: 276522174
-type: way
+type: node
 latitude: 50.415
 longitude: -105.53132
-postcode: "S6H 7K8"
+postcode: S6H 7K8
 city: Moose Jaw
-street: "Thatcher Drive"
-housenumber: 30
-phone: "+1 306-691-6000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1583"
+street: Thatcher Drive
+housenumber: "30"
+phone: +1 306-691-6000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1583

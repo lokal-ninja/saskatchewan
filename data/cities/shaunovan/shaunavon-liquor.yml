@@ -2,10 +2,10 @@ id: 10000358266
 type: node
 latitude: 49.64579
 longitude: -108.40812
-postcode: "S0N 2M0"
+postcode: S0N 2M0
 city: Shaunovan
-street: "Centre Street"
-housenumber: 299
-phone: "+1 306-297-2222"
-opening_hours: "Mo-Su 10:00-22:00"
+street: Centre Street
+housenumber: "299"
+phone: +1 306-297-2222
+opening_hours: Mo-Su 10:00-22:00
 website: ""

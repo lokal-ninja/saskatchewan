@@ -1,11 +1,11 @@
 id: 434892975
-type: way
+type: node
 latitude: 49.17413
 longitude: -101.7882
 postcode: ""
 city: Carnduff
-street: "Super Grid"
-housenumber: 102
-phone: "+1-306-482-3351"
+street: Super Grid
+housenumber: "102"
+phone: +1-306-482-3351
 opening_hours: ""
-website: "http://www.carnduffcarriageworks.com"
+website: http://www.carnduffcarriageworks.com

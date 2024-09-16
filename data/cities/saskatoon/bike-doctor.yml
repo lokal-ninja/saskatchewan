@@ -1,11 +1,11 @@
 id: 699304842
-type: way
+type: node
 latitude: 52.11692
 longitude: -106.6549
-postcode: "S7H0J8"
+postcode: S7H0J8
 city: Saskatoon
-street: "Main Street"
-housenumber: 623
-phone: "+1 306-664-8555"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.bikedoctor.ca/"
+street: Main Street
+housenumber: "623"
+phone: +1 306-664-8555
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.bikedoctor.ca/

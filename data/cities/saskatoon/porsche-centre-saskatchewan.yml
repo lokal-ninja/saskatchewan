@@ -1,11 +1,11 @@
 id: 428904351
-type: way
+type: node
 latitude: 52.08754
 longitude: -106.65022
-postcode: "S7J 5L6"
+postcode: S7J 5L6
 city: Saskatoon
-street: "Brand Road"
-housenumber: 355
-phone: "+1-306-986-7000"
+street: Brand Road
+housenumber: "355"
+phone: +1-306-986-7000
 opening_hours: ""
-website: "https://porschecentresaskatchewan.com"
+website: https://porschecentresaskatchewan.com

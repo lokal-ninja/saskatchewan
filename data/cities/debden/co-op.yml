@@ -1,11 +1,11 @@
 id: 534963200
-type: way
+type: node
 latitude: 53.52966
 longitude: -106.8823
-postcode: "S0J 0S0"
+postcode: S0J 0S0
 city: Debden
-street: "Industrial Park"
-housenumber: 400
+street: Industrial Park
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

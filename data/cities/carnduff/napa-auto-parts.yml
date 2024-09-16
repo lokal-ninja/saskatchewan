@@ -1,11 +1,11 @@
 id: 434816396
-type: way
+type: node
 latitude: 49.17777
 longitude: -101.80186
 postcode: ""
 city: Carnduff
-street: "Highway 18"
-housenumber: 1211
-phone: "+1-306-482-3641"
+street: Highway 18
+housenumber: "1211"
+phone: +1-306-482-3641
 opening_hours: ""
 website: ""

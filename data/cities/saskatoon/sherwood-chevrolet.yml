@@ -1,11 +1,11 @@
 id: 428567869
-type: way
+type: node
 latitude: 52.08691
 longitude: -106.65392
-postcode: "S7J 5J3"
+postcode: S7J 5J3
 city: Saskatoon
-street: "Brand Road"
-housenumber: 540
-phone: "+1-877-225-1394"
+street: Brand Road
+housenumber: "540"
+phone: +1-877-225-1394
 opening_hours: ""
-website: "https://www.sherwoodrv.ca/"
+website: https://www.sherwoodrv.ca/
