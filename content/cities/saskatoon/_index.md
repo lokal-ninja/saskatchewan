@@ -1,6 +1,6 @@
 ---
 title: Saskatoon
 url: /saskatoon/
-latitude: 52.126
-longitude: -106.687
+latitude: 52.145
+longitude: -106.576
 ---
