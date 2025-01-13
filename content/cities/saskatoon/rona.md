@@ -1,5 +1,5 @@
 ---
-title: "Rona +"
+title: "Rona+"
 url: /saskatoon/rona/
 shop: doityourself
 ---
