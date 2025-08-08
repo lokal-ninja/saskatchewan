@@ -1,5 +1,5 @@
 ---
-title: "CO-OP"
+title: "Co-op"
 url: /hazenmore/co-op/
 shop: convenience
 ---
