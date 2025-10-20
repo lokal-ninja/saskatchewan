@@ -7,5 +7,5 @@ city: Regina
 street: Hamilton Street
 housenumber: "1856"
 phone: ""
-opening_hours: Mo-Fr 10:00-17:00
+opening_hours: Mo-Fr 10:00-17:00 || Sa-Su "by appointment"
 website: ""
