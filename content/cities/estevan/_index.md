@@ -1,6 +1,6 @@
 ---
 title: Estevan
 url: /estevan/
-latitude: 49.146
-longitude: -102.993
+latitude: 49.148
+longitude: -102.972
 ---
