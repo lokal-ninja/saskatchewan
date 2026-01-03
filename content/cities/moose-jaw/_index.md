@@ -1,6 +1,6 @@
 ---
-title: Moose Jaw
+title: moose jaw
 url: /moose-jaw/
-latitude: 50.405
-longitude: -105.559
+latitude: 50.393
+longitude: -105.534
 ---
