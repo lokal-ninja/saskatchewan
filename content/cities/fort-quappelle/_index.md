@@ -2,5 +2,5 @@
 title: Fort Qu'Appelle
 url: /fort-quappelle/
 latitude: 50.769
-longitude: -103.799
+longitude: -103.796
 ---
