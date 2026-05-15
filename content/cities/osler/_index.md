@@ -1,6 +1,6 @@
 ---
 title: Osler
 url: /osler/
-latitude: 52.369
-longitude: -106.533
+latitude: 52.368
+longitude: -106.539
 ---
