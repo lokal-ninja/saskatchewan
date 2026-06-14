@@ -1,5 +1,5 @@
 ---
 title: "Bolt Mobile"
-url: /saskatoon/bolt-mobile-meadows-parkway/
+url: /saskatoon/bolt-mobile-tweed-lane/
 shop: mobile phone
 ---
