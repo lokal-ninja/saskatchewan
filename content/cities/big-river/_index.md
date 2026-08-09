@@ -1,6 +1,6 @@
 ---
 title: Big River
 url: /big-river/
-latitude: 53.84
+latitude: 53.839
 longitude: -107.036
 ---
