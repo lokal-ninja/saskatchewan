@@ -7,5 +7,5 @@ city: Saskatoon
 street: 66th Street East
 housenumber: "721"
 phone: "+13062425321"
-opening_hours: Mo-Fr 08:00-17:00 Sa 09:00-13:00
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
 website: https://www.firstfilterservice.ca
